@@ -377,7 +377,7 @@
         "options": [
             {
                 "includedGenres": ["Comedy"],
-                "startDate_lesser": 20000000
+                "startDate_lesser": 19991231
             }
         ]
     },
@@ -387,8 +387,8 @@
         "options": [
             {
                 "includedGenres": ["Comedy"],
-                "startDate_greater": 20000000,
-                "startDate_lesser": 20040000
+                "startDate_greater": 20000101,
+                "startDate_lesser": 20041231
             }
         ]
     },
@@ -398,8 +398,8 @@
         "options": [
             {
                 "includedGenres": ["Comedy"],
-                "startDate_greater": 20050000,
-                "startDate_lesser": 20090000
+                "startDate_greater": 20050101,
+                "startDate_lesser": 20091231
             }
         ]
     },
@@ -409,8 +409,8 @@
         "options": [
             {
                 "includedGenres": ["Comedy"],
-                "startDate_greater": 20100000,
-                "startDate_lesser": 20140000
+                "startDate_greater": 20100101,
+                "startDate_lesser": 20141231
             }
         ]
     },
@@ -420,7 +420,7 @@
         "options": [
             {
                 "includedGenres": ["Comedy"],
-                "startDate_greater": 20150000
+                "startDate_greater": 20150101
             }
         ]
     },
@@ -637,10 +637,6 @@
     "B4": {
         "id": "B4",
         "description": "Watch an anime with \"Comedy\" AND your least favorite genre based on mean score in AniList",
-        "options": [
-            {
-                "includedGenres": ["Comedy", "${least_favorite_genre}"]
-            }
-        ]
+        "solvable": false
     }
 }
