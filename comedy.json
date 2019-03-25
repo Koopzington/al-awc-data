@@ -1,0 +1,646 @@
+{
+    "1": {
+        "id": "1",
+        "description": "Watch an anime with the genre / tags: \"Comedy\" AND \"Adventure\"",
+        "options": [
+            {
+                "includedGenres": ["Comedy", "Adventure"]
+            }
+        ]
+    },
+    "2": {
+        "id": "2",
+        "description": "Watch an anime with the genre / tags: \"Comedy\" AND \"Action\"",
+        "options": [
+            {
+                "includedGenres": ["Comedy", "Action"]
+            }
+        ]
+    },
+    "3": {
+        "id": "3",
+        "description": "Watch an anime with the genre / tags: \"Comedy\" AND \"Shounen\" OR \"Seinen\"",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "includedTags": ["Shounen"]
+            },
+            {
+                "includedGenres": ["Comedy"],
+                "includedTags": ["Seinen"]
+            }
+        ]
+    },
+    "4": {
+        "id": "4",
+        "description": "Watch an anime with the genre / tags: \"Comedy\" AND \"Shoujo\" OR \"Josei\"",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "includedTags": ["Shoujo"]
+            },
+            {
+                "includedGenres": ["Comedy"],
+                "includedTags": ["Josei"]
+            }
+        ]
+    },
+    "5": {
+        "id": "5",
+        "description": "Watch an anime with the genre / tags: \"Comedy\" AND \"Romance\" OR \"Harem\" OR \"Ecchi\"",
+        "options": [
+            {
+                "includedGenres": ["Comedy", "Romance"]
+            },
+            {
+                "includedGenres": ["Comedy"],
+                "includedTags": ["Harem"]
+            },
+            {
+                "includedGenres": ["Comedy"],
+                "includedTags": ["Ecchi"]
+            }
+        ]
+    },
+    "6": {
+        "id": "6",
+        "description": "Watch an anime with the genre / tags: \"Comedy\" AND \"Fantasy\" OR \"Sci-Fi\"",
+        "options": [
+            {
+                "includedGenres": ["Comedy", "Fantasy"]
+            },
+            {
+                "includedGenres": ["Comedy", "Sci-Fi"]
+            }
+        ]
+    },
+    "7": {
+        "id": "7",
+        "description": "Watch an anime with the genre / tags: \"Comedy\" AND \"Supernatural\" OR \"Super Power\" ",
+        "options": [
+            {
+                "includedGenres": ["Comedy", "Supernatural"]
+            },
+            {
+                "includedGenres": ["Comedy"],
+                "includedTags": ["Super Power"]
+            },
+            {
+                "includedGenres": ["Comedy"],
+                "includedTags": ["Superhero"]
+            }
+        ]
+    },
+    "8": {
+        "id": "8",
+        "description": "Watch an anime with the genre / tags: \"Comedy\" AND \"Drama\" OR \"Slice of Life\"",
+        "options": [
+            {
+                "includedGenres": ["Comedy", "Drama"]
+            },
+            {
+                "includedGenres": ["Comedy", "Slice of Life"]
+            }
+        ]
+    },
+    "9": {
+        "id": "9",
+        "description": "Watch an anime with the genre / tags: \"Comedy\" AND \"Mecha\" OR \"Magic\" OR \"Sports\"",
+        "options": [
+            {
+                "includedGenres": ["Comedy", "Mecha"]
+            },
+            {
+                "includedGenres": ["Comedy", "Sports"]
+            },
+            {
+                "includedGenres": ["Comedy"],
+                "includedTags": ["Magic"]
+            }
+        ]
+    },
+    "10": {
+        "id": "10",
+        "description": "Watch an anime with the genre / tags: \"Comedy\" AND \"Female Protagonist\" OR \"Male Protagonist\"",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "includedTags": ["Male Protagonist"]
+            },
+            {
+                "includedGenres": ["Comedy"],
+                "includedTags": ["Female Protagonist"]
+            }
+        ]
+    },
+    "11": {
+        "id": "11",
+        "description": "Watch an anime with the genre / tags: \"Comedy\" AND \"Parody\" OR \"Satire\"",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "includedTags": ["Parody"]
+            },
+            {
+                "includedGenres": ["Comedy"],
+                "includedTags": ["Satire"]
+            }
+        ]
+    },
+    "12": {
+        "id": "12",
+        "description": "Watch a \"Comedy\" anime with the format of Special",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "format": "SPECIAL"
+            }
+        ]
+    },
+    "13": {
+        "id": "13",
+        "description": "Watch a 2nd \"Comedy\" anime with the format of Special",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "format": "SPECIAL"
+            }
+        ]
+    },
+    "14": {
+        "id": "14",
+        "description": "Watch a \"Comedy\" anime with the format of ONA or OVA",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "format": "ONA"
+            },
+            {
+                "includedGenres": ["Comedy"],
+                "format": "OVA"
+            }
+        ]
+    },
+    "15": {
+        "id": "15",
+        "description": "Watch a 2nd \"Comedy\" anime with the format of ONA or OVA",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "format": "ONA"
+            },
+            {
+                "includedGenres": ["Comedy"],
+                "format": "OVA"
+            }
+        ]
+    },
+    "16": {
+        "id": "16",
+        "description": "Watch a \"Comedy\" anime with the format of Movie",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "format": "MOVIE"
+            }
+        ]
+    },
+    "17": {
+        "id": "17",
+        "description": "Watch a 2nd \"Comedy\" anime with the format of Movie",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "format": "MOVIE"
+            }
+        ]
+    },
+    "18": {
+        "id": "18",
+        "description": "Watch a \"Comedy\" anime with the format of TV",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "format": "TV"
+            }
+        ]
+    },
+    "19": {
+        "id": "19",
+        "description": "Watch a \"Comedy\" anime with the format of TV OR TV Short",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "format": "TV"
+            },
+            {
+                "includedGenres": ["Comedy"],
+                "format": "TV_SHORT"
+            }
+        ]
+    },
+    "20": {
+        "id": "20",
+        "description": "Watch a \"Comedy\" anime with a mean score of 80% or above on AniList",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "averageScore_greater": "80"
+            }
+        ]
+    },
+    "21": {
+        "id": "21",
+        "description": "Watch a \"Comedy\" anime with a mean score of 70% to 79% n AniList",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "averageScore_greater": "70",
+                "averageScore_lesser": "79"
+            }
+        ]
+    },
+    "22": {
+        "id": "22",
+        "description": "Watch a \"Comedy\" anime with a mean score of 69% or below on AniList",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "averageScore_lesser": "69"
+            }
+        ]
+    },
+    "23": {
+        "id": "23",
+        "description": "Watch a \"Comedy\" anime with the source listed as original",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "source": "ORIGINAL"
+            }
+        ]
+    },
+    "24": {
+        "id": "24",
+        "description": "Watch a \"Comedy\" anime where the source is listed as Visual Novel or Video Game, or Light Novel",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "source": "VISUAL_NOVEL"
+            },
+            {
+                "includedGenres": ["Comedy"],
+                "source": "LIGHT_NOVEL"
+            },
+            {
+                "includedGenres": ["Comedy"],
+                "source": "VIDEO_GAME"
+            }
+        ]
+    },
+    "25": {
+        "id": "25",
+        "description": "Watch a \"Comedy\" anime where the source is listed as Manga",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "source": "MANGA"
+            }
+        ]
+    },
+    "26": {
+        "id": "26",
+        "description": "Watch a \"Comedy\" anime that has a sequel or is a sequel",
+        "options": [
+            {
+                "includedGenres": ["Comedy"]
+            }
+        ]
+    },
+    "27": {
+        "id": "27",
+        "description": "Watch a \"Comedy\" anime from different studios: 1st Studio_Studio: Studio Name_",
+        "options": [
+            {
+                "includedGenres": ["Comedy"]
+            }
+        ]
+    },
+    "28": {
+        "id": "28",
+        "description": "Watch a \"Comedy\" anime from different studios: 2nd Studio_Studio: Studio Name_",
+        "options": [
+            {
+                "includedGenres": ["Comedy"]
+            }
+        ]
+    },
+    "29": {
+        "id": "29",
+        "description": "Watch a \"Comedy\" anime from different studios: 3rd Studio_Studio: Studio Name_",
+        "options": [
+            {
+                "includedGenres": ["Comedy"]
+            }
+        ]
+    },
+    "30": {
+        "id": "30",
+        "description": "Watch a \"Comedy\" anime from different studios: 4th Studio_Studio: Studio Name_",
+        "options": [
+            {
+                "includedGenres": ["Comedy"]
+            }
+        ]
+    },
+    "31": {
+        "id": "31",
+        "description": "Watch a \"Comedy\" anime from different studios: 5th Studio_Studio: Studio Name_",
+        "options": [
+            {
+                "includedGenres": ["Comedy"]
+            }
+        ]
+    },
+    "32": {
+        "id": "32",
+        "description": "Watch a \"Comedy\" anime from different studios: 6th Studio_Studio: Studio Name_",
+        "options": [
+            {
+                "includedGenres": ["Comedy"]
+            }
+        ]
+    },
+    "33": {
+        "id": "33",
+        "description": "Watch a \"Comedy\" anime that aired before 2000",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "startDate_lesser": 20000000
+            }
+        ]
+    },
+    "34": {
+        "id": "34",
+        "description": "Watch a \"Comedy\" anime which began airing between 2000 and 2004",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "startDate_greater": 20000000,
+                "startDate_lesser": 20040000
+            }
+        ]
+    },
+    "35": {
+        "id": "35",
+        "description": "Watch a \"Comedy\" anime which began airing between 2005 and 2009",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "startDate_greater": 20050000,
+                "startDate_lesser": 20090000
+            }
+        ]
+    },
+    "36": {
+        "id": "36",
+        "description": "Watch a \"Comedy\" anime which began airing between 2010 and 2014",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "startDate_greater": 20100000,
+                "startDate_lesser": 20140000
+            }
+        ]
+    },
+    "37": {
+        "id": "37",
+        "description": "Watch a \"Comedy\" anime which began airing between 2015 and the current year",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "startDate_greater": 20150000
+            }
+        ]
+    },
+    "38": {
+        "id": "38",
+        "description": "Watch a \"Comedy\" anime with 6 or fewer episodes",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "episodes_lesser": 6
+            }
+        ]
+    },
+    "39": {
+        "id": "39",
+        "description": "Watch a \"Comedy\" anime with 12 or fewer episodes",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "episodes_lesser": 12
+            }
+        ]
+    },
+    "40": {
+        "id": "40",
+        "description": "Watch a \"Comedy\" anime with 13 or more episodes",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "episodes_greater": 13
+            }
+        ]
+    },
+    "41": {
+        "id": "41",
+        "description": "Watch a \"Comedy\" anime with 24 or more episodes",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "episodes_greater": 24
+            }
+        ]
+    },
+    "42": {
+        "id": "42",
+        "description": "Watch a \"Comedy\" anime with 30 or more episodes",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "episodes_greater": 30
+            }
+        ]
+    },
+    "43": {
+        "id": "43",
+        "description": "Watch a \"Comedy\" anime that aired in the spring",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "season": "SPRING"
+            }
+        ]
+    },
+    "44": {
+        "id": "44",
+        "description": "Watch a \"Comedy\" anime that aired in the summer",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "season": "SUMMER"
+            }
+        ]
+    },
+    "45": {
+        "id": "45",
+        "description": "Watch a \"Comedy\" anime that aired in the fall",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "season": "FALL"
+            }
+        ]
+    },
+    "46": {
+        "id": "46",
+        "description": "Watch a \"Comedy\" anime that aired in the winter",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "season": "WINTER"
+            }
+        ]
+    },
+    "47": {
+        "id": "47",
+        "description": "Watch a \"Comedy\" anime that begins with a letter between: A-L",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "title_like": "^[A-L].*$"
+            }
+        ]
+    },
+    "48": {
+        "id": "48",
+        "description": "Watch a \"Comedy\" anime that begins with a letter between: M-Z",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "title_like": "^[M-Z].*$"
+            }
+        ]
+    },
+    "49": {
+        "id": "49",
+        "description": "Watch a \"Comedy\" anime that ends with the first letter of your username",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "title_like": "^.*${first_letter_of_username}$"
+            }
+        ]
+    },
+    "50": {
+        "id": "50",
+        "description": "Watch a \"Comedy\" anime with a non-alphabet character in the title",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "title_like": ".*[^a-zA-Z\\s].*"
+            }
+        ]
+    },
+    "51": {
+        "id": "51",
+        "description": "Watch a \"Comedy\" anime where the main character is an adult",
+        "solvable": false
+    },
+    "52": {
+        "id": "52",
+        "description": "Watch a \"Comedy\" anime where the main cast of characters are primarily children",
+        "solvable": false
+    },
+    "53": {
+        "id": "53",
+        "description": "Watch a \"Comedy\" anime where the characters are primarily chibi",
+        "solvable": false
+    },
+    "54": {
+        "id": "54",
+        "description": "Watch an anime that has a main character with a name that starts with the first letter of your Username",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "title_like": "${first_letter_of_username}.*"
+            }
+        ]
+    },
+    "55": {
+        "id": "55",
+        "description": "Watch a \"Comedy\" anime with a main or supporting characters with an unnatural hair color",
+        "solvable": false
+    },
+    "56": {
+        "id": "56",
+        "description": "Watch a \"Comedy\" anime where the main character has a younger brother or sister",
+        "solvable": false
+    },
+    "57": {
+        "id": "57",
+        "description": "Watch a \"Comedy\" where the main character wears glasses",
+        "solvable": false
+    },
+    "58": {
+        "id": "58",
+        "description": "Watch a \"Comedy\" anime recommended by another AniList User",
+        "solvable": false
+    },
+    "59": {
+        "id": "59",
+        "description": "Watch a \"Comedy\" anime you have not used for any other AWC challenge",
+        "solvable": false
+    },
+    "60": {
+        "id": "60",
+        "description": "Watch a \"Comedy\" anime that has a review on AniList",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "has_review": true
+            }
+        ]
+    },
+    "B1": {
+        "id": "B1",
+        "description": "Watch an \"Comedy\" anime that aired prior to 1990",
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "startDate_lesser": 19900000
+            }
+        ]
+    },
+    "B2": {
+        "id": "B2",
+        "description": "Watch an award winning \"Comedy\" anime (make a note for the award that was won)",
+        "solvable": false
+    },
+    "B3": {
+        "id": "B3",
+        "description": "Watch an anime within the \"Comedy\" genre listed in the top 250 anime as listed in Anime News Network",
+        "solvable": false
+    },
+    "B4": {
+        "id": "B4",
+        "description": "Watch an anime with \"Comedy\" AND your least favorite genre based on mean score in AniList",
+        "options": [
+            {
+                "includedGenres": ["Comedy", "${least_favorite_genre}"]
+            }
+        ]
+    }
+}
