@@ -222,7 +222,7 @@
         "description": "Watch a \"Slice of Life\" anime that aired before 2000",
         "options": [{
             "includedGenres": ["Slice of Life"],
-            "startDate_lesser": 20001231
+            "startDate_lesser": 19991231
         }]
     },
     "24": {
