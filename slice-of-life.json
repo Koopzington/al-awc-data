@@ -1,0 +1,406 @@
+{
+    "1": {
+        "id": "1",
+        "description": "Watch an anime with the genre / tags: \"Slice of Life\" AND \"Comedy\"",
+        "options": [{
+            "includedGenres": ["Slice of Life", "Comedy"]
+        }]
+    },
+    "2": {
+        "id": "2",
+        "description": "Watch an anime with the genre / tags: \"Slice of Life\" AND \"Shounen\" OR \"Seinen\"",
+        "options": [{
+                "includedGenres": ["Slice of Life"],
+                "includedTags": ["Shounen"]
+            },
+            {
+                "includedGenres": ["Slice of Life"],
+                "includedTags": ["Seinen"]
+            }
+        ]
+    },
+    "3": {
+        "id": "3",
+        "description": "Watch an anime with the genre / tags: \"Slice of Life\" AND \"Shoujo\" OR \"Josei\"",
+        "options": [{
+                "includedGenres": ["Slice of Life"],
+                "includedTags": ["Shoujo"]
+            },
+            {
+                "includedGenres": ["Slice of Life"],
+                "includedTags": ["Josei"]
+            }
+        ]
+    },
+    "4": {
+        "id": "4",
+        "description": "Watch an anime with the genre / tags: \"Slice of Life\" AND \"Drama\"",
+        "options": [{
+            "includedGenres": ["Slice of Life", "Drama"]
+        }]
+    },
+    "5": {
+        "id": "5",
+        "description": "Watch an anime with the genre / tags: \"Slice of Life\" AND \"Fantasy\" OR \"Sci-Fi\"",
+        "options": [{
+                "includedGenres": ["Slice of Life", "Fantasy"]
+            },
+            {
+                "includedGenres": ["Slice of Life", "Sci-Fi"]
+            }
+        ]
+    },
+    "6": {
+        "id": "6",
+        "description": "Watch an anime with the tags\" \"Slice of Life\" and \"Romance\"",
+        "options": [{
+            "includedGenres": ["Slice of Life", "Romance"]
+        }]
+    },
+    "7": {
+        "id": "7",
+        "description": "Watch an anime with the tags: \"Slice of Life\" AND \"Supernatural\" OR \"Sports\" OR \"Music\"",
+        "options": [{
+                "includedGenres": ["Slice of Life", "Sports"]
+            },
+            {
+                "includedGenres": ["Slice of Life", "Music"]
+            }
+        ]
+    },
+    "8": {
+        "id": "8",
+        "description": "Watch an anime with the genre / tags: \"Slice of Life\" AND \"Iyashikei\" OR \"Coming of Age\" OR \"School\"",
+        "options": [{
+                "includedGenres": ["Slice of Life"],
+                "includedTags": ["Iyashikei"]
+            },
+            {
+                "includedGenres": ["Slice of Life"],
+                "includedTags": ["Coming of Age"]
+            }
+        ]
+    },
+    "9": {
+        "id": "9",
+        "description": "Watch a \"Slice of Life\" anime with the format of Special or ONA or OVA",
+        "options": [{
+                "includedGenres": ["Slice of Life"],
+                "format": "SPECIAL"
+            },
+            {
+                "includedGenres": ["Slice of Life"],
+                "format": "ONA"
+            },
+            {
+                "includedGenres": ["Slice of Life"],
+                "format": "OVA"
+            }
+        ]
+    },
+    "10": {
+        "id": "10",
+        "description": "Watch a \"Slice of Life\" anime with the format of Movie",
+        "options": [{
+            "includedGenres": ["Slice of Life"],
+            "format": "MOVIE"
+        }]
+    },
+    "11": {
+        "id": "11",
+        "description": "Watch a \"Slice of Life\" anime with the format of TV",
+        "options": [{
+            "includedGenres": ["Slice of Life"],
+            "format": "TV"
+        }]
+    },
+    "12": {
+        "id": "12",
+        "description": "Watch a \"Slice of Life\" anime with the format of TV or TV Short",
+        "options": [{
+                "includedGenres": ["Slice of Life"],
+                "format": "TV"
+            },
+            {
+                "includedGenres": ["Slice of Life"],
+                "format": "TV_SHORT"
+            }
+        ]
+    },
+    "13": {
+        "id": "13",
+        "description": "Watch a \"Slice of Life\" anime with a mean score of 80% or above on AniList",
+        "options": [{
+            "includedGenres": ["Slice of Life"],
+            "averageScore_greater": "80"
+        }]
+    },
+    "14": {
+        "id": "14",
+        "description": "Watch a \"Slice of Life\" anime with a mean score of 70% to 79% on AniList",
+        "options": [{
+            "includedGenres": ["Slice of Life"],
+            "averageScore_greater": "70",
+            "averageScore_lesser": "79"
+        }]
+    },
+    "15": {
+        "id": "15",
+        "description": "Watch a \"Slice of Life\" anime with a mean score of 69% or below on AniList",
+        "options": [{
+            "includedGenres": ["Slice of Life"],
+            "averageScore_lesser": "69"
+        }]
+    },
+    "16": {
+        "id": "16",
+        "description": "Watch a \"Slice of Life\" anime with the source listed as original",
+        "options": [{
+            "includedGenres": ["Slice of Life"],
+            "source": "ORIGINAL"
+        }]
+    },
+    "17": {
+        "id": "17",
+        "description": "Watch a \"Slice of Life\" anime where the source is listed as Visual Novel, Light Novel, or Novel",
+        "options": [{
+                "includedGenres": ["Slice of Life"],
+                "source": "VISUAL_NOVEL"
+            },
+            {
+                "includedGenres": ["Slice of Life"],
+                "source": "LIGHT_NOVEL"
+            },
+            {
+                "includedGenres": ["Slice of Life"],
+                "source": "NOVEL"
+            }
+        ]
+    },
+    "18": {
+        "id": "18",
+        "description": "Watch a \"Slice of Life\" anime where the source is listed as Manga",
+        "options": [{
+            "includedGenres": ["Slice of Life"],
+            "source": "MANGA"
+        }]
+    },
+    "19": {
+        "id": "19",
+        "description": "Watch a \"Slice of Life\" anime from different studios: 1st Studio",
+        "options": [{
+            "includedGenres": ["Slice of Life"],
+            "uniqueStudio": true
+        }]
+    },
+    "20": {
+        "id": "20",
+        "description": "Watch a \"Slice of Life\" anime from different studios: 2nd Studio",
+        "options": [{
+            "includedGenres": ["Slice of Life"],
+            "uniqueStudio": true
+        }]
+    },
+    "21": {
+        "id": "21",
+        "description": "Watch a \"Slice of Life\" anime from different studios: 3rd Studio",
+        "options": [{
+            "includedGenres": ["Slice of Life"],
+            "uniqueStudio": true
+        }]
+    },
+    "22": {
+        "id": "22",
+        "description": "Watch a \"Slice of Life\" anime from different studios: 4th Studio",
+        "options": [{
+            "includedGenres": ["Slice of Life"],
+            "uniqueStudio": true
+        }]
+    },
+    "23": {
+        "id": "23",
+        "description": "Watch a \"Slice of Life\" anime that aired before 2000",
+        "options": [{
+            "includedGenres": ["Slice of Life"],
+            "startDate_lesser": 20001231
+        }]
+    },
+    "24": {
+        "id": "24",
+        "description": "Watch a \"Slice of Life\" anime which began airing between 2000 and 2004",
+        "options": [{
+            "includedGenres": ["Slice of Life"],
+            "startDate_greater": 20000101,
+            "startDate_lesser": 20041231
+        }]
+    },
+    "25": {
+        "id": "25",
+        "description": "Watch a \"Slice of Life\" anime which began airing between 2005 and 2009",
+        "options": [{
+            "includedGenres": ["Slice of Life"],
+            "startDate_greater": 20050101,
+            "startDate_lesser": 20091231
+        }]
+    },
+    "26": {
+        "id": "26",
+        "description": "Watch a \"Slice of Life\" anime which began airing between 2010 and 2014",
+        "options": [{
+            "includedGenres": ["Slice of Life"],
+            "startDate_greater": 20100101,
+            "startDate_lesser": 20141231
+        }]
+    },
+    "27": {
+        "id": "27",
+        "description": "Watch a \"Slice of Life\" anime which began airing between 2015 and the current year",
+        "options": [{
+            "includedGenres": ["Slice of Life"],
+            "startDate_greater": 20150101
+        }]
+    },
+    "28": {
+        "id": "28",
+        "description": "Watch a \"Slice of Life\" anime with 10 or fewer episodes",
+        "options": [{
+            "includedGenres": ["Slice of Life"],
+            "episodes_lesser": 10
+        }]
+    },
+    "29": {
+        "id": "29",
+        "description": "Watch a \"Slice of Life\" anime with 13 or more episodes",
+        "options": [{
+            "includedGenres": ["Slice of Life"],
+            "episodes_greater": 13
+        }]
+    },
+    "30": {
+        "id": "30",
+        "description": "Watch a \"Slice of Life\" anime with 24 or more episodes",
+        "options": [{
+            "includedGenres": ["Slice of Life"],
+            "episodes_greater": 24
+        }]
+    },
+    "31": {
+        "id": "31",
+        "description": "Watch a \"Slice of Life\" anime that aired in the spring",
+        "options": [{
+            "includedGenres": ["Slice of Life"],
+            "season": "SPRING"
+        }]
+    },
+    "32": {
+        "id": "32",
+        "description": "Watch a \"Slice of Life\" anime that aired in the summer",
+        "options": [{
+            "includedGenres": ["Slice of Life"],
+            "season": "SUMMER"
+        }]
+    },
+    "33": {
+        "id": "33",
+        "description": "Watch a \"Slice of Life\" anime that aired in the fall",
+        "options": [{
+            "includedGenres": ["Slice of Life"],
+            "season": "FALL"
+        }]
+    },
+    "34": {
+        "id": "34",
+        "description": "Watch a \"Slice of Life\" anime that aired in the winter",
+        "options": [{
+            "includedGenres": ["Slice of Life"],
+            "season": "WINTER"
+        }]
+    },
+    "35": {
+        "id": "35",
+        "description": "Watch a \"Slice of Life\" anime that begins with a letter between: A-L",
+        "options": [{
+            "includedGenres": ["Slice of Life"],
+            "title_like": "^[A-L].*$"
+        }]
+    },
+    "36": {
+        "id": "36",
+        "description": "Watch a \"Slice of Life\" anime that begins with a letter between: M-Z",
+        "options": [{
+            "includedGenres": ["Slice of Life"],
+            "title_like": "^[M-Z].*$"
+        }]
+    },
+    "37": {
+        "id": "37",
+        "description": "Watch a \"Slice of Life\" anime with a non-alphabet character in the title",
+        "options": [{
+            "includedGenres": ["Slice of Life"],
+            "title_like": ".*[^a-zA-Z\\s].*"
+        }]
+    },
+    "38": {
+        "id": "38",
+        "description": "Watch a \"Slice of Life\" anime that takes place in a school",
+        "solvable": false
+    },
+    "39": {
+        "id": "39",
+        "description": "Watch a \"Slice of Life\" anime that centers around family",
+        "solvable": false
+    },
+    "40": {
+        "id": "40",
+        "description": "Watch a \"Slice of Life\" anime with an adult main character",
+        "solvable": false
+    },
+    "41": {
+        "id": "41",
+        "description": "Watch a \"Slice of Life\" anime with a cherry blossom scene",
+        "solvable": false
+    },
+    "42": {
+        "id": "42",
+        "description": "Watch a \"Slice of Life\" anime where the main character lives alone",
+        "solvable": false
+    },
+    "43": {
+        "id": "43",
+        "description": "Watch a \"Slice of Life\" anime where the main character has lost a loved one",
+        "solvable": false
+    },
+    "44": {
+        "id": "44",
+        "description": "Watch a \"Slice of Life\" anime recommended by another AniList User",
+        "solvable": false
+    },
+    "45": {
+        "id": "45",
+        "description": "Watch a \"Slice of Life\" anime you have not used for any other AWC challenge",
+        "solvable": false
+    },
+    "B1": {
+        "id": "B1",
+        "description": "Watch an \"Slice of Life\" anime that aired prior to 1990",
+        "options": [{
+            "includedGenres": ["Slice of Life"],
+            "startDate_lesser": 199000000
+        }]
+    },
+    "B2": {
+        "id": "B2",
+        "description": "Watch an award winning \"Slice of Life\" anime",
+        "solvable": false
+    },
+    "B3": {
+        "id": "B3",
+        "description": "Watch an anime within the \"Slice of Life\" genre listed in the top 250 anime as listed in [Anime News Network]",
+        "solvable": false
+    },
+    "B4": {
+        "id": "B4",
+        "description": "Watch an anime with \"Slice of Life\" AND your least favorite genre based on mean score in AniList",
+        "solvable": false
+    }
+}
