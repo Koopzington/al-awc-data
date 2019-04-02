@@ -577,7 +577,7 @@
                 "includedGenres": ["Comedy"],
                 "character": {
                     "role": "MAIN",
-                    "name_like": "${first_letter_of_username}.*"
+                    "name_like": "^${first_letter_of_username}.*$"
                 }
             }
         ]
