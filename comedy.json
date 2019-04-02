@@ -575,7 +575,10 @@
         "options": [
             {
                 "includedGenres": ["Comedy"],
-                "title_like": "${first_letter_of_username}.*"
+                "character": {
+                    "role": "MAIN",
+                    "name_like": "${first_letter_of_username}.*"
+                }
             }
         ]
     },
