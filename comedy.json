@@ -562,7 +562,12 @@
     "52": {
         "id": "52",
         "description": "Watch a \"Comedy\" anime where the main cast of characters are primarily children",
-        "solvable": false
+        "options": [
+            {
+                "includedGenres": ["Comedy"],
+                "includedTags": ["Primarily Child Cast"]
+            }
+        ]
     },
     "53": {
         "id": "53",
