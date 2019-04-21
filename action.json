@@ -1,0 +1,650 @@
+{
+    "1": {
+        "id": "1",
+        "description": "Watch an anime with the genre / tags: \"Action\" AND \"Adventure\"",
+        "options": [
+            {
+                "includedGenres": ["Action", "Adventure"]
+            }
+        ]
+    },
+    "2": {
+        "id": "2",
+        "description": "Watch an anime with the genre / tags: \"Action\" AND \"Comedy\"",
+        "options": [
+            {
+                "includedGenres": ["Action", "Comedy"]
+            }
+        ]
+    },
+    "3": {
+        "id": "3",
+        "description": "Watch an anime with the genre / tags: \"Action\" AND \"Shounen\" OR \"Seinen\"",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "includedTags": ["Shounen"]
+            },
+            {
+                "includedGenres": ["Action"],
+                "includedTags": ["Seinen"]
+            }
+        ]
+    },
+    "4": {
+        "id": "4",
+        "description": "Watch an anime with the genre / tags: \"Action\" AND \"Shoujo\" OR \"Josei\"",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "includedTags": ["Shoujo"]
+            },
+            {
+                "includedGenres": ["Action"],
+                "includedTags": ["Josei"]
+            }
+        ]
+    },
+    "5": {
+        "id": "5",
+        "description": "Watch an anime with the genre / tags: \"Action\" AND \"Romance\" OR \"Harem\"",
+        "options": [
+            {
+                "includedGenres": ["Action", "Romance"]
+            },
+            {
+                "includedGenres": ["Action"],
+                "includedTags": ["Harem"]
+            }
+        ]
+    },
+    "6": {
+        "id": "6",
+        "description": "Watch an anime with the genre / tags: \"Action\" AND \"Fantasy\"",
+        "options": [
+            {
+                "includedGenres": ["Action", "Fantasy"]
+            }
+        ]
+    },
+    "7": {
+        "id": "7",
+        "description": "Watch an anime with the genre / tags: \"Action\" AND \"Sci-Fi\"",
+        "options": [
+            {
+                "includedGenres": ["Action", "Sci-Fi"]
+            }
+        ]
+    },
+    "8": {
+        "id": "8",
+        "description": "Watch an anime with the genre / tags: \"Action\" AND \"Drama\" OR \"Slice of Life\"",
+        "options": [
+            {
+                "includedGenres": ["Action", "Drama"]
+            },
+            {
+                "includedGenres": ["Action", "Slice of Life"]
+            }
+        ]
+    },
+    "9": {
+        "id": "9",
+        "description": "Watch an anime with the genre / tags: \"Action\" AND \"Mecha\" OR \"Magic\" OR \"Sports\"",
+        "options": [
+            {
+                "includedGenres": ["Action", "Mecha"]
+            },
+            {
+                "includedGenres": ["Action", "Sports"]
+            },
+            {
+                "includedGenres": ["Action"],
+                "includedTags": ["Magic"]
+            }
+        ]
+    },
+    "10": {
+        "id": "10",
+        "description": "Watch an anime with the genre / tags: \"Action\" AND \"Mystery\" OR \"Psychological\" OR \"Horror\" OR \"Thriller\"",
+        "options": [
+            {
+                "includedGenres": ["Action", "Mystery"]
+            },
+            {
+                "includedGenres": ["Action", "Psychological"]
+            },
+            {
+                "includedGenres": ["Action", "Horror"]
+            },
+            {
+                "includedGenres": ["Action", "Thriller"]
+            }
+        ]
+    },
+    "11": {
+        "id": "11",
+        "description": "Watch an anime with the tags: \"Action\" AND \"Martial Arts\" OR \"Samurai\" OR \"Ninja\" OR \"Sword Play\"",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "includedTags": ["Martial Arts"]
+            },
+            {
+                "includedGenres": ["Action"],
+                "includedTags": ["Samurai"]
+            },
+            {
+                "includedGenres": ["Action"],
+                "includedTags": ["Ninja"]
+            },
+            {
+                "includedGenres": ["Action"],
+                "includedTags": ["Sword Play"]
+            }
+        ]
+    },
+    "12": {
+        "id": "12",
+        "description": "Watch an \"Action\" anime with the format of Special",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "format": "SPECIAL"
+            }
+        ]
+    },
+    "13": {
+        "id": "13",
+        "description": "Watch a 2nd \"Action\" anime with the format of Special",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "format": "SPECIAL"
+            }
+        ]
+    },
+    "14": {
+        "id": "14",
+        "description": "Watch an \"Action\" anime with the format of ONA or OVA",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "format": "ONA"
+            },
+            {
+                "includedGenres": ["Action"],
+                "format": "OVA"
+            }
+        ]
+    },
+    "15": {
+        "id": "15",
+        "description": "Watch a 2nd \"Action\" anime with the format of ONA or OVA",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "format": "ONA"
+            },
+            {
+                "includedGenres": ["Action"],
+                "format": "OVA"
+            }
+        ]
+    },
+    "16": {
+        "id": "16",
+        "description": "Watch an \"Action\" anime with the format of Movie",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "format": "MOVIE"
+            }
+        ]
+    },
+    "17": {
+        "id": "17",
+        "description": "Watch a 2nd \"Action\" anime with the format of Movie",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "format": "MOVIE"
+            }
+        ]
+    },
+    "18": {
+        "id": "18",
+        "description": "Watch an \"Action\" anime with the format of TV",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "format": "TV"
+            }
+        ]
+    },
+    "19": {
+        "id": "19",
+        "description": "Watch an \"Action\" anime with the format of TV OR TV Short",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "format": "TV"
+            },
+            {
+                "includedGenres": ["Action"],
+                "format": "TV_SHORT"
+            }
+        ]
+    },
+    "20": {
+        "id": "20",
+        "description": "Watch an \"Action\" anime with a mean score of 80% or above on AniList",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "averageScore_greater": "80"
+            }
+        ]
+    },
+    "21": {
+        "id": "21",
+        "description": "Watch an \"Action\" anime with a mean score of 70% to 79% on AniList",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "averageScore_greater": "70",
+                "averageScore_lesser": "79"
+            }
+        ]
+    },
+    "22": {
+        "id": "22",
+        "description": "Watch an \"Action\" anime with a mean score of 69% or below on AniList",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "averageScore_lesser": "69"
+            }
+        ]
+    },
+    "23": {
+        "id": "23",
+        "description": "Watch an \"Action\" anime with the source listed as original",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "source": "ORIGINAL"
+            }
+        ]
+    },
+    "24": {
+        "id": "24",
+        "description": "Watch an \"Action\" anime where the source is listed as Visual Novel, Video Game, Unknown, or Other",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "source": "VISUAL_NOVEL"
+            },
+            {
+                "includedGenres": ["Action"],
+                "source": "OTHER"
+            },
+            {
+                "includedGenres": ["Action"],
+                "source": "VIDEO_GAME"
+            },
+            {
+                "includedGenres": ["Action"],
+                "source": null
+            }
+        ]
+    },
+    "25": {
+        "id": "25",
+        "description": "Watch an \"Action\" anime where the source is listed as Light Novel or Novel",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "source": "LIGHT_NOVEL"
+            },
+            {
+                "includedGenres": ["Action"],
+                "source": "NOVEL"
+            }
+        ]
+    },
+    "26": {
+        "id": "26",
+        "description": "Watch an \"Action\" anime where the source is listed as Manga",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "source": "MANGA"
+            }
+        ]
+    },
+    "27": {
+        "id": "27",
+        "description": "Watch an \"Action\" anime that has a sequel or is a sequel",
+        "options": [
+            {
+                "hasSequel": true
+            },
+            {
+                "isSequel": true
+            }
+        ]
+    },
+    "28": {
+        "id": "28",
+        "description": "Watch an \"Action\" anime from different studios: 1st Studio",
+        "options": [
+            {
+                "includedGenres": ["Action"]
+            }
+        ]
+    },
+    "29": {
+        "id": "29",
+        "description": "Watch an \"Action\" anime from different studios: 2nd Studio",
+        "options": [
+            {
+                "includedGenres": ["Action"]
+            }
+        ]
+    },
+    "30": {
+        "id": "30",
+        "description": "Watch an \"Action\" anime from different studios: 3rd Studio",
+        "options": [
+            {
+                "includedGenres": ["Action"]
+            }
+        ]
+    },
+    "31": {
+        "id": "31",
+        "description": "Watch an \"Action\" anime from different studios: 4th Studio",
+        "options": [
+            {
+                "includedGenres": ["Action"]
+            }
+        ]
+    },
+    "32": {
+        "id": "32",
+        "description": "Watch an \"Action\" anime from different studios: 5th Studio",
+        "options": [
+            {
+                "includedGenres": ["Action"]
+            }
+        ]
+    },
+    "33": {
+        "id": "33",
+        "description": "Watch an \"Action\" anime from different studios: 6th Studio",
+        "options": [
+            {
+                "includedGenres": ["Action"]
+            }
+        ]
+    },
+    "34": {
+        "id": "34",
+        "description": "Watch an \"Action\" anime that aired before 2000",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "startDate_lesser": 19991231
+            }
+        ]
+    },
+    "35": {
+        "id": "35",
+        "description": "Watch an \"Action\" anime which began airing between 2000 and 2004",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "startDate_greater": 20000101,
+                "startDate_lesser": 20041231
+            }
+        ]
+    },
+    "36": {
+        "id": "36",
+        "description": "Watch an \"Action\" anime which began airing between 2005 and 2009",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "startDate_greater": 20050101,
+                "startDate_lesser": 20091231
+            }
+        ]
+    },
+    "37": {
+        "id": "37",
+        "description": "Watch an \"Action\" anime which began airing between 2010 and 2014",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "startDate_greater": 20100101,
+                "startDate_lesser": 20141231
+            }
+        ]
+    },
+    "38": {
+        "id": "38",
+        "description": "Watch an \"Action\" anime which began airing between 2015 and the current year",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "startDate_greater": 20150101
+            }
+        ]
+    },
+    "39": {
+        "id": "39",
+        "description": "Watch an \"Action\" anime with 12 or fewer episodes",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "episodes_lesser": 12
+            }
+        ]
+    },
+    "40": {
+        "id": "40",
+        "description": "Watch an \"Action\" anime with 13 or more episodes",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "episodes_greater": 13
+            }
+        ]
+    },
+    "41": {
+        "id": "41",
+        "description": "Watch an \"Action\" anime with 24 or more episodes",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "episodes_greater": 24
+            }
+        ]
+    },
+    "42": {
+        "id": "42",
+        "description": "Watch an \"Action\" anime with 30 or more episodes",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "episodes_greater": 30
+            }
+        ]
+    },
+    "43": {
+        "id": "43",
+        "description": "Watch an \"Action\" anime that aired in the spring",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "season": "SPRING"
+            }
+        ]
+    },
+    "44": {
+        "id": "44",
+        "description": "Watch a \"Action\" anime that aired in the summer",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "season": "SUMMER"
+            }
+        ]
+    },
+    "45": {
+        "id": "45",
+        "description": "Watch an \"Action\" anime that aired in the fall",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "season": "FALL"
+            }
+        ]
+    },
+    "46": {
+        "id": "46",
+        "description": "Watch an \"Action\" anime that aired in the winter",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "season": "WINTER"
+            }
+        ]
+    },
+    "47": {
+        "id": "47",
+        "description": "Watch an \"Action\" anime that begins with a letter between: A-L",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "title_like": "^[A-L].*$"
+            }
+        ]
+    },
+    "48": {
+        "id": "48",
+        "description": "Watch an \"Action\" anime that begins with a letter between: M-Z",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "title_like": "^[M-Z].*$"
+            }
+        ]
+    },
+    "49": {
+        "id": "49",
+        "description": "Watch an \"Action\" anime that begins with the same second letter as your username",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "title_like": "^${second_letter_of_username}.*$"
+            }
+        ]
+    },
+    "50": {
+        "id": "50",
+        "description": "Watch an \"Action\" anime with a non-alphabet character in the title",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "title_like": ".*[^a-zA-Z\\s].*"
+            }
+        ]
+    },
+    "51": {
+        "id": "51",
+        "description": "Watch an \"Action\" anime where the main character uses a gun or sword",
+        "solvable": false
+    },
+    "52": {
+        "id": "52",
+        "description": "Watch an \"Action\" anime with a majority female main cast",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "includedTags": ["Primarily Female Cast"]
+            }
+        ]
+    },
+    "53": {
+        "id": "53",
+        "description": "Watch an \"Action\" anime with a majority male main cast",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "includedTags": ["Primarily Male Cast"]
+            }
+        ]
+    },
+    "54": {
+        "id": "54",
+        "description": "Watch an \"Action\" anime where the main character is a villain or anti-hero",
+        "solvable": false
+    },
+    "55": {
+        "id": "55",
+        "description": "Watch an \"Action\" anime where the main character has super powers or magic",
+        "solvable": false
+    },
+    "56": {
+        "id": "56",
+        "description": "Watch an \"Action\" anime that takes place in a fictional land / world",
+        "solvable": false
+    },
+    "57": {
+        "id": "57",
+        "description": "Watch an \"Action\" anime where the main character has blue or green eyes",
+        "solvable": false
+    },
+    "58": {
+        "id": "58",
+        "description": "Watch an \"Action\" anime recommended by another AniList User",
+        "solvable": false
+    },
+    "59": {
+        "id": "59",
+        "description": "Watch an \"Action\" anime you have not used for any other AWC challenge",
+        "solvable": false
+    },
+    "60": {
+        "id": "60",
+        "description": "Watch an \"Action\" anime in the recently reviewed section",
+        "solvable": false
+    },
+    "B1": {
+        "id": "B1",
+        "description": "Watch an \"Action\" anime that aired prior to 1990",
+        "options": [
+            {
+                "includedGenres": ["Action"],
+                "startDate_lesser": 19900000
+            }
+        ]
+    },
+    "B2": {
+        "id": "B2",
+        "description": "Watch an award winning \"Action\" anime (make a note for the award that was won",
+        "solvable": false
+    },
+    "B3": {
+        "id": "B3",
+        "description": "Watch an anime within the \"Action\" genre listed in the top 250 anime as listed in [Anime News Network",
+        "solvable": false
+    },
+    "B4": {
+        "id": "B4",
+        "description": "Watch an anime with \"Action\" AND your least favorite genre based on mean score in AniList",
+        "solvable": false
+    }
+}
