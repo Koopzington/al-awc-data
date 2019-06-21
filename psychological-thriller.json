@@ -1,0 +1,542 @@
+{
+    "1": {
+        "id": "1",
+        "description": "Watch an anime with the genres: \"Psychological / Thriller\" AND \"Mecha\" OR \"Sci-Fi\" OR \"Action\"",
+        "options": [
+            {
+                "includedGenres": ["Psychological", "Mecha"]
+            },
+            {
+                "includedGenres": ["Psychological", "Sci-Fi"]
+            },
+            {
+                "includedGenres": ["Psychological", "Action"]
+            },
+            {
+                "includedGenres": ["Thriller", "Mecha"]
+            },
+            {
+                "includedGenres": ["Thriller", "Sci-Fi"]
+            },
+            {
+                "includedGenres": ["Thriller", "Action"]
+            }
+        ]
+    },
+    "2": {
+        "id": "2",
+        "description": "Watch an anime with the genres: \"Psychological / Thriller\" AND \"Drama\" OR \"Romance\"",
+        "options": [
+            {
+                "includedGenres": ["Psychological", "Drama"]
+            },
+            {
+                "includedGenres": ["Psychological", "Romance"]
+            },
+            {
+                "includedGenres": ["Thriller", "Drama"]
+            },
+            {
+                "includedGenres": ["Thriller", "Romance"]
+            }
+        ]
+    },
+    "3": {
+        "id": "3",
+        "description": "Watch an anime with the genres: \"Psychological / Thriller\" AND \"Mystery\" OR \"Supernatural\"",
+        "options": [
+            {
+                "includedGenres": ["Psychological", "Mystery"]
+            },
+            {
+                "includedGenres": ["Psychological", "Supernatural"]
+            },
+            {
+                "includedGenres": ["Thriller", "Mystery"]
+            },
+            {
+                "includedGenres": ["Thriller", "Supernatural"]
+            }
+        ]
+    },
+    "4": {
+        "id": "4",
+        "description": "Watch an anime with the genres: \"Psychological\" AND \"Thriller\"",
+        "options": [
+            {
+                "includedGenres": ["Psychological", "Thriller"]
+            }
+        ]
+    },
+    "5": {
+        "id": "5",
+        "description": "Watch a \"Psychological / Thriller\" anime with the format of TV",
+        "options": [
+            {
+                "includedGenres": ["Psychological"],
+                "format": "TV"
+            },
+            {
+                "includedGenres": ["Thriller"],
+                "format": "TV"
+            }
+        ]
+    },
+    "6": {
+        "id": "6",
+        "description": "Watch a \"Psychological / Thriller\" anime with a format other than TV",
+        "options": [
+            {
+                "includedGenres": ["Psychological"],
+                "format": "TV_SHORT"
+            },
+            {
+                "includedGenres": ["Psychological"],
+                "format": "MOVIE"
+            },
+            {
+                "includedGenres": ["Psychological"],
+                "format": "OVA"
+            },
+            {
+                "includedGenres": ["Psychological"],
+                "format": "ONA"
+            },
+            {
+                "includedGenres": ["Psychological"],
+                "format": "SPECIAL"
+            },
+            {
+                "includedGenres": ["Psychological"],
+                "format": "MUSIC"
+            },
+            {
+                "includedGenres": ["Thriller"],
+                "format": "TV_SHORT"
+            },
+            {
+                "includedGenres": ["Thriller"],
+                "format": "MOVIE"
+            },
+            {
+                "includedGenres": ["Thriller"],
+                "format": "OVA"
+            },
+            {
+                "includedGenres": ["Thriller"],
+                "format": "ONA"
+            },
+            {
+                "includedGenres": ["Thriller"],
+                "format": "SPECIAL"
+            },
+            {
+                "includedGenres": ["Thriller"],
+                "format": "MUSIC"
+            }
+        ]
+    },
+    "7": {
+        "id": "7",
+        "description": "Watch a \"Psychological / Thriller\" anime rated 70% or above on AniList",
+        "options": [
+            {
+                "includedGenres": ["Psychological"],
+                "averageScore_greater": "70"
+            },
+            {
+                "includedGenres": ["Thriller"],
+                "averageScore_greater": "70"
+            }
+        ]
+    },
+    "8": {
+        "id": "8",
+        "description": "Watch a \"Psychological / Thriller\" anime rated 69% or below on AniList",
+        "options": [
+            {
+                "includedGenres": ["Psychological"],
+                "averageScore_lesser": "69"
+            },
+            {
+                "includedGenres": ["Thriller"],
+                "averageScore_lesser": "69"
+            }
+        ]
+    },
+    "9": {
+        "id": "9",
+        "description": "Watch a \"Psychological / Thriller\" anime where the source is listed as manga",
+        "options": [
+            {
+                "includedGenres": ["Psychological"],
+                "source": "MANGA"
+            },
+            {
+                "includedGenres": ["Thriller"],
+                "source": "MANGA"
+            }
+        ]
+    },
+    "10": {
+        "id": "10",
+        "description": "Watch a \"Psychological / Thriller\" anime with a source other than manga",
+        "options": [
+            {
+                "includedGenres": ["Psychological"],
+                "source": "ORIGINAL"
+            },
+            {
+                "includedGenres": ["Psychological"],
+                "source": "VISUAL_NOVEL"
+            },
+            {
+                "includedGenres": ["Psychological"],
+                "source": "LIGHT_NOVEL"
+            },
+            {
+                "includedGenres": ["Psychological"],
+                "source": "VIDEO_GAME"
+            },
+            {
+                "includedGenres": ["Psychological"],
+                "source": "NOVEL"
+            },
+            {
+                "includedGenres": ["Psychological"],
+                "source": "OTHER"
+            },
+            {
+                "includedGenres": ["Psychological"],
+                "source": "DOUJINSHI"
+            },
+            {
+                "includedGenres": ["Thriller"],
+                "source": "ORIGINAL"
+            },
+            {
+                "includedGenres": ["Thriller"],
+                "source": "VISUAL_NOVEL"
+            },
+            {
+                "includedGenres": ["Thriller"],
+                "source": "LIGHT_NOVEL"
+            },
+            {
+                "includedGenres": ["Thriller"],
+                "source": "VIDEO_GAME"
+            },
+            {
+                "includedGenres": ["Thriller"],
+                "source": "NOVEL"
+            },
+            {
+                "includedGenres": ["Thriller"],
+                "source": "OTHER"
+            },
+            {
+                "includedGenres": ["Thriller"],
+                "source": "DOUJINSHI"
+            }
+        ]
+    },
+    "11": {
+        "id": "11",
+        "description": "Watch a \"Psychological / Thriller\" anime that has a sequel or is a sequel",
+        "options": [
+            {
+                "includedGenres": ["Psychological"],
+                "hasSequel": true
+            },
+            {
+                "includedGenres": ["Psychological"],
+                "isSequel": true
+            },
+            {
+                "includedGenres": ["Thriller"],
+                "hasSequel": true
+            },
+            {
+                "includedGenres": ["Thriller"],
+                "isSequel": true
+            }
+        ]
+    },
+    "12": {
+        "id": "12",
+        "description": "Watch a \"Psychological / Thriller\" anime from different studios: 1st Studio",
+        "options": [
+            {
+                "includedGenres": ["Psychological"]
+            },
+            {
+                "includedGenres": ["Thriller"]
+            }
+        ]
+    },
+    "13": {
+        "id": "13",
+        "description": "Watch a \"Psychological / Thriller\" anime from different studios: 2nd Studio",
+        "options": [
+            {
+                "includedGenres": ["Psychological"]
+            },
+            {
+                "includedGenres": ["Thriller"]
+            }
+        ]
+    },
+    "14": {
+        "id": "14",
+        "description": "Watch a \"Psychological / Thriller\" anime from different studios: 3rd Studio",
+        "options": [
+            {
+                "includedGenres": ["Psychological"]
+            },
+            {
+                "includedGenres": ["Thriller"]
+            }
+        ]
+    },
+    "15": {
+        "id": "15",
+        "description": "Watch a \"Psychological / Thriller\" anime from different studios: 4th Studio",
+        "options": [
+            {
+                "includedGenres": ["Psychological"]
+            },
+            {
+                "includedGenres": ["Thriller"]
+            }
+        ]
+    },
+    "16": {
+        "id": "16",
+        "description": "Watch a \"Psychological / Thriller\" anime which began airing in 2004 or before",
+        "options": [
+            {
+                "includedGenres": ["Psychological"],
+                "startDate_lesser": 20041231
+            },
+            {
+                "includedGenres": ["Thriller"],
+                "startDate_lesser": 20041231
+            }
+        ]
+    },
+    "17": {
+        "id": "17",
+        "description": "Watch a \"Psychological / Thriller\" anime which began airing between 2005 and 2010",
+        "options": [
+            {
+                "includedGenres": ["Psychological"],
+                "startDate_greater": 20050101,
+                "startDate_lesser": 20101231
+            },
+            {
+                "includedGenres": ["Thriller"],
+                "startDate_greater": 20050101,
+                "startDate_lesser": 20101231
+            }
+        ]
+    },
+    "18": {
+        "id": "18",
+        "description": "Watch a \"Psychological / Thriller\" anime which began airing between 2011 and the current year",
+        "options": [
+            {
+                "includedGenres": ["Psychological"],
+                "startDate_greater": 20110101
+            },
+            {
+                "includedGenres": ["Thriller"],
+                "startDate_greater": 20110101
+            }
+        ]
+    },
+    "19": {
+        "id": "19",
+        "description": "Watch a \"Psychological / Thriller\" anime with 12 or fewer episodes",
+        "options": [
+            {
+                "includedGenres": ["Psychological"],
+                "episodes_lesser": 12
+            },
+            {
+                "includedGenres": ["Thriller"],
+                "episodes_lesser": 12
+            }
+        ]
+    },
+    "20": {
+        "id": "20",
+        "description": "Watch a \"Psychological / Thriller\" anime with 13 or more episodes",
+        "options": [
+            {
+                "includedGenres": ["Psychological"],
+                "episodes_greater": 13
+            },
+            {
+                "includedGenres": ["Thriller"],
+                "episodes_greater": 13
+            }
+        ]
+    },
+    "21": {
+        "id": "21",
+        "description": "Watch a \"Psychological / Thriller\" anime that aired in the spring or fall",
+        "options": [
+            {
+                "includedGenres": ["Psychological"],
+                "season": "SPRING"
+            },
+            {
+                "includedGenres": ["Psychological"],
+                "season": "FALL"
+            },
+            {
+                "includedGenres": ["Thriller"],
+                "season": "SPRING"
+            },
+            {
+                "includedGenres": ["Thriller"],
+                "season": "FALL"
+            }
+        ]
+    },
+    "22": {
+        "id": "22",
+        "description": "Watch a \"Psychological / Thriller\" anime that aired in the summer or winter",
+        "options": [
+            {
+                "includedGenres": ["Psychological"],
+                "season": "SUMMER"
+            },
+            {
+                "includedGenres": ["Psychological"],
+                "season": "WINTER"
+            },
+            {
+                "includedGenres": ["Thriller"],
+                "season": "SUMMER"
+            },
+            {
+                "includedGenres": ["Thriller"],
+                "season": "WINTER"
+            }
+        ]
+    },
+    "23": {
+        "id": "23",
+        "description": "Watch a \"Psychological / Thriller\" anime that begins with a letter between: A-L",
+        "options": [
+            {
+                "includedGenres": ["Psychological"],
+                "title_like": "^[A-L].*$"
+            },
+            {
+                "includedGenres": ["Thriller"],
+                "title_like": "^[A-L].*$"
+            }
+        ]
+    },
+    "24": {
+        "id": "24",
+        "description": "Watch a \"Psychological / Thriller\" anime that begins with a letter between: M-Z",
+        "options": [
+            {
+                "includedGenres": ["Psychological"],
+                "title_like": "^[M-Z].*$"
+            },
+            {
+                "includedGenres": ["Thriller"],
+                "title_like": "^[M-Z].*$"
+            }
+        ]
+    },
+    "25": {
+        "id": "25",
+        "description": "Watch a \"Psychological / Thriller\" anime that takes place in a city (real or fictional)",
+        "solvable": false
+    },
+    "26": {
+        "id": "26",
+        "description": "Watch a \"Psychological / Thriller\" that takes place in a cyberpunk or dystopian setting",
+        "options": [
+            {
+                "includedGenres": ["Psychological"],
+                "includedTags": ["Cyberpunk"]
+            },
+            {
+                "includedGenres": ["Psychological"],
+                "includedTags": ["Dystopian"]
+            },
+            {
+                "includedGenres": ["Thriller"],
+                "includedTags": ["Cyberpunk"]
+            },
+            {
+                "includedGenres": ["Thriller"],
+                "includedTags": ["Dystopian"]
+            }
+        ]
+    },
+    "27": {
+        "id": "27",
+        "description": "Watch a \"Psychological / Thriller\" anime with a main character who uses a gun",
+        "solvable": false
+    },
+    "28": {
+        "id": "28",
+        "description": "Watch a \"Psychological / Thriller\" anime with a main character who is a criminal or anti-hero",
+        "options": [
+            {
+                "includedGenres": ["Psychological"],
+                "includedTags": ["Anti-Hero"]
+            },
+            {
+                "includedGenres": ["Thriller"],
+                "includedTags": ["Anti-Hero"]
+            }
+        ]
+    },
+    "29": {
+        "id": "29",
+        "description": "Watch a \"Psychological / Thriller\" anime recommended by another AniList User",
+        "solvable": false
+    },
+    "30": {
+        "id": "30",
+        "description": "Watch a \"Psychological / Thriller\" anime you have not used for any other AWC challenge",
+        "solvable": false
+    },
+    "B1": {
+        "id": "B1",
+        "description": "Watch a \"Psychological / Thriller\" anime that aired prior to 1995",
+        "options": [
+            {
+                "includedGenres": ["Psychological"],
+                "startDate_lesser": 19950000
+            },
+            {
+                "includedGenres": ["Thriller"],
+                "startDate_lesser": 19950000
+            }
+        ]
+    },
+    "B2": {
+        "id": "B2",
+        "description": "Watch an award winning \"Psychological / Thriller\" anime (make a note for the award that was won)",
+        "solvable": false
+    },
+    "B3": {
+        "id": "B3",
+        "description": "Watch an anime within the \"Psychological / Thriller\" genre listed in the top 250 anime as listed in Anime News Network",
+        "solvable": false
+    },
+    "B4": {
+        "id": "B4",
+        "description": "Watch an anime with \"Psychological / Thriller\" AND your least favorite genre based on mean score in AniList",
+        "solvable": false
+    }
+}
