@@ -328,9 +328,11 @@
         "description": "Watch an \"Action\" anime that has a sequel or is a sequel",
         "options": [
             {
+                "includedGenres": ["Action"],
                 "hasSequel": true
             },
             {
+                "includedGenres": ["Action"],
                 "isSequel": true
             }
         ]
