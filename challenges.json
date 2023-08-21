@@ -72,6 +72,14 @@
         "thread": 59986
     },
     {
+        "title": "Gacha",
+        "thread": 67067
+    },
+    {
+        "title": "Dungeon - Training Grounds",
+        "thread": 67587
+    },
+    {
         "title": "Studio Ghibli",
         "thread": 7284
     },
@@ -136,6 +144,10 @@
         "thread": 59212
     },
     {
+        "title": "Slayers",
+        "thread": 66523
+    },
+    {
         "title": "Satoshi Kon",
         "thread": 7567
     },
@@ -198,6 +210,10 @@
     {
         "title": "2014 Classic",
         "thread": 59780
+    },
+    {
+        "title": "2013 Classic",
+        "thread": 65978
     },
     {
         "title": "Retro Classic",
@@ -396,6 +412,10 @@
         "thread": 63781
     },
     {
+        "title": "Manga City - Library",
+        "thread": 65821
+    },
+    {
         "title": "Manga Explorer's",
         "thread": 9960
     },
@@ -418,5 +438,9 @@
     {
         "title": "Manga Light Novel",
         "thread": 61414
+    },
+    {
+        "title": "One-Shot Roulette",
+        "thread": 65513
     }
 ]
