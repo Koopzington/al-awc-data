@@ -1,446 +1,1605 @@
 [
     {
         "title": "Beginner's Tier",
-        "thread": 4448
+        "release_date": "2018-07-20",
+        "deadline": "",
+        "thread": 4448,
+        "points": 2
+    },
+    {
+        "title": "August 2018",
+        "release_date": "2018-08-01",
+        "deadline": "2018-08-31",
+        "thread": 4728,
+        "points": 2
     },
     {
         "title": "Intermediate Tier",
-        "thread": 5027
+        "release_date": "2018-08-23",
+        "deadline": "",
+        "thread": 5027,
+        "points": 4
     },
     {
-        "title": "Advanced Tier",
-        "thread": 8462
+        "title": "September 2018",
+        "release_date": "2018-09-01",
+        "deadline": "2018-09-30",
+        "thread": 5110,
+        "points": 2
     },
     {
-        "title": "Expert Tier",
-        "thread": 38849
+        "title": "Action Genre",
+        "release_date": "2018-09-22",
+        "deadline": "",
+        "thread": 5288,
+        "points": 7
+    },
+    {
+        "title": "Comedy Genre",
+        "release_date": "2018-09-22",
+        "deadline": "",
+        "thread": 5289,
+        "points": 7
+    },
+    {
+        "title": "Fantasy Genre",
+        "release_date": "2018-09-22",
+        "deadline": "",
+        "thread": 5290,
+        "points": 7
+    },
+    {
+        "title": "Romance Genre",
+        "release_date": "2018-09-22",
+        "deadline": "",
+        "thread": 5291,
+        "points": 7
+    },
+    {
+        "title": "Sci-Fi Genre",
+        "release_date": "2018-09-22",
+        "deadline": "",
+        "thread": 5292,
+        "points": 7
+    },
+    {
+        "title": "Slice of Life Genre",
+        "release_date": "2018-09-22",
+        "deadline": "",
+        "thread": 5293,
+        "points": 7
+    },
+    {
+        "title": "October 2018",
+        "release_date": "2018-10-01",
+        "deadline": "2018-10-31",
+        "thread": 5372,
+        "points": 2
+    },
+    {
+        "title": "Horror Genre",
+        "release_date": "2018-10-19",
+        "deadline": "",
+        "thread": 5558,
+        "points": 7
+    },
+    {
+        "title": "Mystery Genre",
+        "release_date": "2018-10-19",
+        "deadline": "",
+        "thread": 5557,
+        "points": 7
+    },
+    {
+        "title": "Thriller Genre",
+        "release_date": "2018-10-19",
+        "deadline": "",
+        "thread": 5556,
+        "points": 7
+    },
+    {
+        "title": "Hentai Genre",
+        "release_date": "2018-10-19",
+        "deadline": "",
+        "thread": 5559,
+        "points": 7
+    },
+    {
+        "title": "November 2018",
+        "release_date": "2018-11-01",
+        "deadline": "2018-11-30",
+        "thread": 5696,
+        "points": 2
+    },
+    {
+        "title": "Drama Genre",
+        "release_date": "2018-11-24",
+        "deadline": "",
+        "thread": 5875,
+        "points": 7
+    },
+    {
+        "title": "Sports Genre",
+        "release_date": "2018-11-24",
+        "deadline": "",
+        "thread": 5876,
+        "points": 7
+    },
+    {
+        "title": "December 2018",
+        "release_date": "2018-12-01",
+        "deadline": "2018-12-31",
+        "thread": 5927,
+        "points": 2
+    },
+    {
+        "title": "Advent Calendar",
+        "release_date": "2018-12-01",
+        "deadline": "2018-12-24",
+        "thread": 5926,
+        "points": 0
+    },
+    {
+        "title": "Adventure Genre",
+        "release_date": "2018-12-21",
+        "deadline": "",
+        "thread": 6111,
+        "points": 7
+    },
+    {
+        "title": "Mecha Genre",
+        "release_date": "2018-12-21",
+        "deadline": "",
+        "thread": 6112,
+        "points": 7
     },
     {
         "title": "Gambler's",
-        "thread": 6171
+        "release_date": "2018-12-28",
+        "deadline": "",
+        "thread": 6171,
+        "points": 2
     },
     {
-        "title": "Gambler's 2.0",
-        "thread": 28272
+        "title": "January 2019",
+        "release_date": "2019-01-01",
+        "deadline": "2019-01-31",
+        "thread": 6206,
+        "points": 2
     },
     {
-        "title": "Zodiac",
-        "thread": 6553
+        "title": "Winter 2019 Seasonal",
+        "release_date": "2019-01-01",
+        "deadline": "2019-04-21",
+        "thread": 6207,
+        "points": 1
     },
     {
-        "title": "Western Zodiac",
-        "thread": 40936
+        "title": "Mahou Shoujo Genre",
+        "release_date": "2019-01-18",
+        "deadline": "",
+        "thread": 6376,
+        "points": 7
     },
     {
-        "title": "Rainbow",
-        "thread": 7738
+        "title": "Music Genre",
+        "release_date": "2019-01-18",
+        "deadline": "",
+        "thread": 6375,
+        "points": 7
     },
     {
-        "title": "Archeologist's",
-        "thread": 9282
+        "title": "Manga Beginner's",
+        "release_date": "2019-01-20",
+        "deadline": "",
+        "thread": 6395,
+        "points": 2
     },
     {
-        "title": "Monster",
-        "thread": 9777
+        "title": "February 2019",
+        "release_date": "2019-02-01",
+        "deadline": "2019-02-28",
+        "thread": 6517,
+        "points": 2
     },
     {
-        "title": "Recommendations",
-        "thread": 14236
+        "title": "Chinese Zodiac",
+        "release_date": "2019-02-05",
+        "deadline": "",
+        "thread": 6553,
+        "points": 1
     },
     {
-        "title": "Quiz",
-        "thread": 22800
+        "title": "Ecchi Genre",
+        "release_date": "2019-02-17",
+        "deadline": "",
+        "thread": 6631,
+        "points": 7
     },
     {
-        "title": "Marathon",
-        "thread": 27098
+        "title": "Supernatural Genre",
+        "release_date": "2019-02-17",
+        "deadline": "",
+        "thread": 6630,
+        "points": 7
     },
     {
-        "title": "Olympic Games",
-        "thread": 39077
+        "title": "March 2019",
+        "release_date": "2019-03-01",
+        "deadline": "2019-03-31",
+        "thread": 6711,
+        "points": 2
     },
     {
-        "title": "Hero's Dawn",
-        "thread": 45664
+        "title": "Raffle #1",
+        "release_date": "2019-03-01",
+        "deadline": "2019-12-01",
+        "thread": 6715,
+        "points": 0
     },
     {
-        "title": "Hidden Gems",
-        "thread": 63608
+        "title": "April 2019",
+        "release_date": "2019-04-01",
+        "deadline": "2019-04-30",
+        "thread": 6976,
+        "points": 2
     },
     {
-        "title": "Community Workshop",
-        "thread": 59986
-    },
-    {
-        "title": "Gacha",
-        "thread": 67067
-    },
-    {
-        "title": "Dungeon - Training Grounds",
-        "thread": 67587
-    },
-    {
-        "title": "Studio Ghibli",
-        "thread": 7284
-    },
-    {
-        "title": "Kyoto Animation",
-        "thread": 9352
-    },
-    {
-        "title": "Wit Studio",
-        "thread": 13775
-    },
-    {
-        "title": "Madhouse",
-        "thread": 36321
-    }
-    {
-        "title": "Monogatari Series",
-        "thread": 7566
-    },
-    {
-        "title": "JoJo's Bizarre Adventure",
-        "thread": 8037
-    },
-    {
-        "title": "Initial D",
-        "thread": 12963
-    },
-    {
-        "title": "Higurashi",
-        "thread": 17846
-    },
-    {
-        "title": "Gintama",
-        "thread": 25322
-    },
-    {
-        "title": "Love Live",
-        "thread": 25914
-    },
-    {
-        "title": "Evangelion",
-        "thread": 40441
-    },
-    {
-        "title": "Cardcaptor Sakura",
-        "thread": 44858
-    },
-    {
-        "title": "Aria",
-        "thread": 47806
-    },
-    {
-        "title": "Urusei Yatsura",
-        "thread": 53566
-    },
-    {
-        "title": "Pretty Cure",
-        "thread": 58215
-    },
-    {
-        "title": "Inuyasha",
-        "thread": 59212
-    },
-    {
-        "title": "Slayers",
-        "thread": 66523
-    },
-    {
-        "title": "Satoshi Kon",
-        "thread": 7567
-    },
-    {
-        "title": "Makoto Shinkai",
-        "thread": 9002
-    },
-    {
-        "title": "Isao Takahata",
-        "thread": 16264
-    },
-    {
-        "title": "Kunihiko Ikuhara",
-        "thread": 19773
-    },
-    {
-        "title": "Mitsuru Adachi",
-        "thread": 58423
-    },
-    {
-        "title": "JAFC",
-        "thread": 50869
-    },
-    {
-        "title": "Masterpiece",
-        "thread": 28916
-    },
-    {
-        "title": "2022 Classic",
-        "thread": 61944
-    },
-    {
-        "title": "2021 Classic",
-        "thread": 49205
-    },
-    {
-        "title": "2020 Classic",
-        "thread": 22395
-    },
-    {
-        "title": "2019 Classic",
-        "thread": 10377
+        "title": "Spring 2019 Seasonal",
+        "release_date": "2019-04-02",
+        "deadline": "2019-07-15",
+        "thread": 6991,
+        "points": 1
     },
     {
         "title": "2018 Classic",
-        "thread": 7104
+        "release_date": "2019-04-12",
+        "deadline": "",
+        "thread": 7104,
+        "points": 3
+    },
+    {
+        "title": "Manga City School",
+        "release_date": "2019-04-19",
+        "deadline": "",
+        "thread": 7196,
+        "points": 1
+    },
+    {
+        "title": "Studio Ghibli Collection",
+        "release_date": "2019-04-26",
+        "deadline": "",
+        "thread": 7284,
+        "points": 2
+    },
+    {
+        "title": "May 2019",
+        "release_date": "2019-05-01",
+        "deadline": "2019-05-31",
+        "thread": 7349,
+        "points": 2
+    },
+    {
+        "title": "Monogatari Collection",
+        "release_date": "2019-05-17",
+        "deadline": "",
+        "thread": 7566,
+        "points": 1
+    },
+    {
+        "title": "Satoshi Kon Collection",
+        "release_date": "2019-05-17",
+        "deadline": "",
+        "thread": 7567,
+        "points": 1
+    },
+    {
+        "title": "June 2019",
+        "release_date": "2019-06-01",
+        "deadline": "2019-06-30",
+        "thread": 7737,
+        "points": 2
+    },
+    {
+        "title": "Rainbow",
+        "release_date": "2019-06-01",
+        "deadline": "",
+        "thread": 7738,
+        "points": 1
+    },
+    {
+        "title": "Manga City Museum",
+        "release_date": "2019-06-14",
+        "deadline": "",
+        "thread": 7915,
+        "points": 1
+    },
+    {
+        "title": "JoJo's Bizarre Adventure Collection",
+        "release_date": "2019-06-21",
+        "deadline": "",
+        "thread": 8037,
+        "points": 1
+    },
+    {
+        "title": "July 2019",
+        "release_date": "2019-07-01",
+        "deadline": "2019-07-31",
+        "thread": 8190,
+        "points": 2
+    },
+    {
+        "title": "Summer 2019 Seasonal",
+        "release_date": "2019-07-01",
+        "deadline": "2019-10-15",
+        "thread": 8191,
+        "points": 1
+    },
+    {
+        "title": "Akira",
+        "release_date": "2019-07-16",
+        "deadline": "2019-07-31",
+        "thread": 8418,
+        "points": 0
+    },
+    {
+        "title": "Advanced Tier",
+        "release_date": "2019-07-20",
+        "deadline": "",
+        "thread": 8462,
+        "points": 6
+    },
+    {
+        "title": "Badge Battle #1: Bocchi vs Senko",
+        "release_date": "2019-07-26",
+        "deadline": "2019-08-09",
+        "thread": 8579,
+        "points": 0
+    },
+    {
+        "title": "August 2019",
+        "release_date": "2019-08-01",
+        "deadline": "2019-08-31",
+        "thread": 8676,
+        "points": 2
+    },
+    {
+        "title": "Manga City Beach",
+        "release_date": "2019-08-16",
+        "deadline": "",
+        "thread": 8889,
+        "points": 1
+    },
+    {
+        "title": "Makoto Shinkai Collection",
+        "release_date": "2019-08-23",
+        "deadline": "",
+        "thread": 9002,
+        "points": 1
+    },
+    {
+        "title": "September 2019",
+        "release_date": "2019-09-01",
+        "deadline": "2019-09-30",
+        "thread": 9141,
+        "points": 2
+    },
+    {
+        "title": "Archaeologist's",
+        "release_date": "2019-09-13",
+        "deadline": "",
+        "thread": 9282,
+        "points": 2
+    },
+    {
+        "title": "Kyoto Animation Collection",
+        "release_date": "2019-09-20",
+        "deadline": "",
+        "thread": 9352,
+        "points": 2
+    },
+    {
+        "title": "October 2019",
+        "release_date": "2019-10-01",
+        "deadline": "2019-10-31",
+        "thread": 9458,
+        "points": 2
+    },
+    {
+        "title": "Fall 2019 Seasonal",
+        "release_date": "2019-10-01",
+        "deadline": "2020-01-13",
+        "thread": 9459,
+        "points": 1
+    },
+    {
+        "title": "Manga City Cemetery",
+        "release_date": "2019-10-18",
+        "deadline": "",
+        "thread": 9675,
+        "points": 1
+    },
+    {
+        "title": "Monster",
+        "release_date": "2019-10-25",
+        "deadline": "",
+        "thread": 9777,
+        "points": 1
+    },
+    {
+        "title": "November 2019",
+        "release_date": "2019-11-01",
+        "deadline": "2019-11-30",
+        "thread": 9881,
+        "points": 2
+    },
+    {
+        "title": "Explorer's",
+        "release_date": "2019-11-08",
+        "deadline": "",
+        "thread": 9960,
+        "points": 6
+    },
+    {
+        "title": "Badge Battle #2: Chise vs Mikoto",
+        "release_date": "2019-11-28",
+        "deadline": "2019-12-12",
+        "thread": 10132,
+        "points": 0
+    },
+    {
+        "title": "December 2019",
+        "release_date": "2019-12-01",
+        "deadline": "2019-12-31",
+        "thread": 10154,
+        "points": 2
+    },
+    {
+        "title": "Staff Picks 2019",
+        "release_date": "2019-12-25",
+        "deadline": "2020-12-24",
+        "thread": 10366,
+        "points": 2
+    },
+    {
+        "title": "2019 Classic",
+        "release_date": "2019-12-27",
+        "deadline": "",
+        "thread": 10377,
+        "points": 3
+    },
+    {
+        "title": "January 2020",
+        "release_date": "2020-01-01",
+        "deadline": "2020-01-31",
+        "thread": 10426,
+        "points": 2
+    },
+    {
+        "title": "Winter 2020 Seasonal",
+        "release_date": "2020-01-06",
+        "deadline": "2020-04-19",
+        "thread": 10477,
+        "points": 1
+    },
+    {
+        "title": "Manga Intermediate",
+        "release_date": "2020-01-20",
+        "deadline": "",
+        "thread": 10665,
+        "points": 4
+    },
+    {
+        "title": "Raffle #2",
+        "release_date": "2020-01-26",
+        "deadline": "2020-08-22",
+        "thread": 10745,
+        "points": 0
+    },
+    {
+        "title": "February 2020",
+        "release_date": "2020-02-01",
+        "deadline": "2020-02-29",
+        "thread": 10817,
+        "points": 2
+    },
+    {
+        "title": "Valentine's",
+        "release_date": "2020-02-14",
+        "deadline": "2020-04-14",
+        "thread": 11041,
+        "points": 1
+    },
+    {
+        "title": "March 2020",
+        "release_date": "2020-03-01",
+        "deadline": "2020-03-31",
+        "thread": 11199,
+        "points": 2
+    },
+    {
+        "title": "Manga City Airport",
+        "release_date": "2020-03-07",
+        "deadline": "",
+        "thread": 11261,
+        "points": 1
+    },
+    {
+        "title": "Puzzle Challenge: Genre Jigsaw",
+        "release_date": "2020-03-21",
+        "deadline": "",
+        "thread": 11405,
+        "points": 2
+    },
+    {
+        "title": "April 2020",
+        "release_date": "2020-04-01",
+        "deadline": "2020-04-30",
+        "thread": 11559,
+        "points": 2
+    },
+    {
+        "title": "Spring 2020 Seasonal",
+        "release_date": "2020-04-05",
+        "deadline": "2020-07-19",
+        "thread": 11630,
+        "points": 1
+    },
+    {
+        "title": "May 2020",
+        "release_date": "2020-05-01",
+        "deadline": "2020-05-31",
+        "thread": 12234,
+        "points": 2
+    },
+    {
+        "title": "Manga City Casino",
+        "release_date": "2020-05-16",
+        "deadline": "",
+        "thread": 12658,
+        "points": 1
+    },
+    {
+        "title": "Badge Battle #3: Aoi vs Hana",
+        "release_date": "2020-05-22",
+        "deadline": "2020-06-04",
+        "thread": 12812,
+        "points": 0
+    },
+    {
+        "title": "Initial D Collection",
+        "release_date": "2020-05-29",
+        "deadline": "",
+        "thread": 12963,
+        "points": 1
+    },
+    {
+        "title": "June 2020",
+        "release_date": "2020-06-01",
+        "deadline": "2020-06-30",
+        "thread": 13031,
+        "points": 2
     },
     {
         "title": "2017 Classic",
-        "thread": 13347
+        "release_date": "2020-06-12",
+        "deadline": "",
+        "thread": 13347,
+        "points": 3
     },
     {
-        "title": "2016 Classic",
-        "thread": 39961
+        "title": "Puzzle Challenge 2: Double Dipping",
+        "release_date": "2020-06-19",
+        "deadline": "",
+        "thread": 13560,
+        "points": 2
     },
     {
-        "title": "2015 Classic",
-        "thread": 57229
+        "title": "Wit Studio Collection",
+        "release_date": "2020-06-26",
+        "deadline": "",
+        "thread": 13775,
+        "points": 2
     },
     {
-        "title": "2014 Classic",
-        "thread": 59780
+        "title": "July 2020",
+        "release_date": "2020-07-01",
+        "deadline": "2020-07-31",
+        "thread": 13948,
+        "points": 2
     },
     {
-        "title": "2013 Classic",
-        "thread": 65978
+        "title": "Summer 2020 Seasonal",
+        "release_date": "2020-07-05",
+        "deadline": "2020-10-19",
+        "thread": 14055,
+        "points": 1
     },
     {
-        "title": "Retro Classic",
-        "thread": 63239
+        "title": "AWC & MRC: Recommendations",
+        "release_date": "2020-07-10",
+        "deadline": "",
+        "thread": 14236,
+        "points": 2
     },
     {
-        "title": "Pioneers' Classic",
-        "thread": 51196
+        "title": "Anniversary Boss Battle",
+        "release_date": "2020-07-20",
+        "deadline": "2020-08-08",
+        "thread": 14634,
+        "points": 0
     },
     {
-        "title": "Genre Jigsaw",
-        "thread": 11405
+        "title": "August 2020",
+        "release_date": "2020-08-01",
+        "deadline": "2020-08-31",
+        "thread": 15233,
+        "points": 2
     },
     {
-        "title": "Double Dipping",
-        "thread": 13560
+        "title": "Space Adventure's",
+        "release_date": "2020-08-21",
+        "deadline": "",
+        "thread": 16045,
+        "points": 6
     },
     {
-        "title": "Tag Domino",
-        "thread": 17048
+        "title": "Isao Takahata Collection",
+        "release_date": "2020-08-28",
+        "deadline": "",
+        "thread": 16264,
+        "points": 1
     },
     {
-        "title": "Battleship",
-        "thread": 30744
+        "title": "September 2020",
+        "release_date": "2020-09-01",
+        "deadline": "2020-09-30",
+        "thread": 16404,
+        "points": 2
     },
     {
-        "title": "Gomoku",
-        "thread": 46745
+        "title": "Puzzle Challenge 3: Tag Domino",
+        "release_date": "2020-09-18",
+        "deadline": "",
+        "thread": 17048,
+        "points": 2
     },
     {
-        "title": "Plus-Minus",
-        "thread": 52011
+        "title": "Manga City Office",
+        "release_date": "2020-09-25",
+        "deadline": "",
+        "thread": 17325,
+        "points": 1
     },
     {
-        "title": "Tetris",
-        "thread": 56903
+        "title": "October 2020",
+        "release_date": "2020-10-01",
+        "deadline": "2020-10-31",
+        "thread": 17514,
+        "points": 2
     },
     {
-        "title": "Crossword",
-        "thread": 60975
+        "title": "Fall 2020 Seasonal",
+        "release_date": "2020-10-04",
+        "deadline": "2021-01-04",
+        "thread": 17645,
+        "points": 1
     },
     {
-        "title": "Chain",
-        "thread": 65311
+        "title": "Higurashi Collection",
+        "release_date": "2020-10-09",
+        "deadline": "",
+        "thread": 17846,
+        "points": 1
     },
     {
-        "title": "Action",
-        "thread": 5288
+        "title": "Badge Battle #4: Chiya vs Sophie",
+        "release_date": "2020-10-23",
+        "deadline": "2020-11-05",
+        "thread": 18437,
+        "points": 0
     },
     {
-        "title": "Adventure",
-        "thread": 6111
+        "title": "November 2020",
+        "release_date": "2020-11-01",
+        "deadline": "2020-11-30",
+        "thread": 18860,
+        "points": 2
     },
     {
-        "title": "Comedy",
-        "thread": 5289
+        "title": "Manga City Amusement Park",
+        "release_date": "2020-11-13",
+        "deadline": "",
+        "thread": 19440,
+        "points": 1
     },
     {
-        "title": "Drama",
-        "thread": 5875
+        "title": "Kunihiko Ikuhara Collection",
+        "release_date": "2020-11-20",
+        "deadline": "",
+        "thread": 19773,
+        "points": 1
     },
     {
-        "title": "Ecchi",
-        "thread": 6631
+        "title": "December 2020",
+        "release_date": "2020-12-01",
+        "deadline": "2020-12-31",
+        "thread": 20350,
+        "points": 2
     },
     {
-        "title": "Fantasy",
-        "thread": 5290
+        "title": "Staff Picks 2020",
+        "release_date": "2020-12-25",
+        "deadline": "2021-12-24",
+        "thread": 21631,
+        "points": 2
     },
     {
-        "title": "Hentai",
-        "thread": 5559
+        "title": "January 2021",
+        "release_date": "2021-01-01",
+        "deadline": "2021-01-31",
+        "thread": 21957,
+        "points": 2
     },
     {
-        "title": "Horror",
-        "thread": 5558
+        "title": "Winter 2021 Seasonal",
+        "release_date": "2021-01-03",
+        "deadline": "2021-04-18",
+        "thread": 22075,
+        "points": 1
     },
     {
-        "title": "Mahou Shoujo",
-        "thread": 6376
+        "title": "2020 Classic",
+        "release_date": "2021-01-08",
+        "deadline": "",
+        "thread": 22395,
+        "points": 3
     },
     {
-        "title": "Mecha",
-        "thread": 6112
-    },
-    {
-        "title": "Music",
-        "thread": 6375
-    },
-    {
-        "title": "Mystery",
-        "thread": 5557
-    },
-    {
-        "title": "Psychological / Thriller",
-        "thread": 5556
-    },
-    {
-        "title": "Romance",
-        "thread": 5291
-    },
-    {
-        "title": "Sci-Fi",
-        "thread": 5292
-    },
-    {
-        "title": "Slice of Life",
-        "thread": 5293
-    },
-    {
-        "title": "Sports",
-        "thread": 5876
-    },
-    {
-        "title": "Supernatural",
-        "thread": 6630
-    },
-    {
-        "title": "Manga Beginner's Tier",
-        "thread": 6395
-    },
-    {
-        "title": "Manga Intermediate Tier",
-        "thread": 10665
-    },
-    {
-        "title": "Manga Advanced Tier",
-        "thread": 51476
-    }
-    {
-        "title": "Manga City - School",
-        "thread": 7196
-    },
-    {
-        "title": "Manga City - Museum",
-        "thread": 7915
-    },
-    {
-        "title": "Manga City - Beach",
-        "thread": 8889
-    },
-    {
-        "title": "Manga City - Cemetery",
-        "thread": 9675
-    },
-    {
-        "title": "Manga City - Airport",
-        "thread": 11261
-    },
-    {
-        "title": "Manga City - Casino",
-        "thread": 12658
-    },
-    {
-        "title": "Manga City - Office",
-        "thread": 17325
-    },
-    {
-        "title": "Manga City - Amusement Park",
-        "thread": 19440
-    },
-    {
-        "title": "Manga City - Garage",
-        "thread": 26466
-    },
-    {
-        "title": "Manga City - Konbini",
-        "thread": 32949
-    },
-    {
-        "title": "Manga City - Onsen",
-        "thread": 42357
-    },
-    {
-        "title": "Manga City - Military Base",
-        "thread": 47135
-    },
-    {
-        "title": "Manga City - Hospital",
-        "thread": 49909
-    },
-    {
-        "title": "Manga City - Park",
-        "thread": 52601
-    },
-    {
-        "title": "Manga City - Home",
-        "thread": 55870
-    },
-    {
-        "title": "Manga City - Construction Site",
-        "thread": 60670
-    },
-    {
-        "title": "Manga City - Mall",
-        "thread": 63781
-    },
-    {
-        "title": "Manga City - Library",
-        "thread": 65821
-    },
-    {
-        "title": "Manga Explorer's",
-        "thread": 9960
-    },
-    {
-        "title": "Manga Space Adventurer's",
-        "thread": 16045
+        "title": "Quiz",
+        "release_date": "2021-01-15",
+        "deadline": "",
+        "thread": 22800,
+        "points": 3
     },
     {
         "title": "Manga Lottery",
-        "thread": 23111
+        "release_date": "2021-01-19",
+        "deadline": "",
+        "thread": 23111,
+        "points": 2
     },
     {
-        "title": "Manga Art & Artists",
-        "thread": 38004
+        "title": "February 2021",
+        "release_date": "2021-02-01",
+        "deadline": "2021-02-28",
+        "thread": 23941,
+        "points": 2
     },
     {
-        "title": "Manga Formula 1",
-        "thread": 46422
+        "title": "Badge Battle #5: Dazai vs Ash",
+        "release_date": "2021-02-14",
+        "deadline": "2021-02-28",
+        "thread": 24929,
+        "points": 0
     },
     {
-        "title": "Manga Light Novel",
-        "thread": 61414
+        "title": "Gintama Collection",
+        "release_date": "2021-02-19",
+        "deadline": "",
+        "thread": 25322,
+        "points": 2
     },
     {
-        "title": "One-Shot Roulette",
-        "thread": 65513
+        "title": "Love Live! Collection",
+        "release_date": "2021-02-25",
+        "deadline": "",
+        "thread": 25914,
+        "points": 1
+    },
+    {
+        "title": "March 2021",
+        "release_date": "2021-03-01",
+        "deadline": "2021-03-31",
+        "thread": 26122,
+        "points": 2
+    },
+    {
+        "title": "Manga City Garage",
+        "release_date": "2021-03-05",
+        "deadline": "",
+        "thread": 26466,
+        "points": 1
+    },
+    {
+        "title": "Marathon",
+        "release_date": "2021-03-12",
+        "deadline": "",
+        "thread": 27098,
+        "points": 3
+    },
+    {
+        "title": "Gambler's 2.0",
+        "release_date": "2021-03-26",
+        "deadline": "",
+        "thread": 28272,
+        "points": 3
+    },
+    {
+        "title": "April 2021",
+        "release_date": "2021-04-01",
+        "deadline": "2021-04-30",
+        "thread": 29066,
+        "points": 2
+    },
+    {
+        "title": "Masterpiece",
+        "release_date": "2021-04-01",
+        "deadline": "",
+        "thread": 28916,
+        "points": 0
+    },
+    {
+        "title": "Spring 2021 Seasonal",
+        "release_date": "2021-04-04",
+        "deadline": "2021-07-18",
+        "thread": 29268,
+        "points": 1
+    },
+    {
+        "title": "Puzzle Challenge 4: Battleship",
+        "release_date": "2021-04-16",
+        "deadline": "",
+        "thread": 30744,
+        "points": 2
+    },
+    {
+        "title": "May 2021",
+        "release_date": "2021-05-01",
+        "deadline": "2021-05-31",
+        "thread": 32307,
+        "points": 2
+    },
+    {
+        "title": "Manga City Konbini",
+        "release_date": "2021-05-08",
+        "deadline": "",
+        "thread": 32949,
+        "points": 1
+    },
+    {
+        "title": "June 2021",
+        "release_date": "2021-06-01",
+        "deadline": "2021-06-30",
+        "thread": 35113,
+        "points": 2
+    },
+    {
+        "title": "Madhouse Collection",
+        "release_date": "2021-06-18",
+        "deadline": "",
+        "thread": 36321,
+        "points": 10
+    },
+    {
+        "title": "July 2021",
+        "release_date": "2021-07-01",
+        "deadline": "2021-07-31",
+        "thread": 37307,
+        "points": 2
+    },
+    {
+        "title": "Summer 2021 Seasonal",
+        "release_date": "2021-07-04",
+        "deadline": "2021-10-17",
+        "thread": 37560,
+        "points": 1
+    },
+    {
+        "title": "Art & Artists",
+        "release_date": "2021-07-09",
+        "deadline": "",
+        "thread": 38004,
+        "points": 2
+    },
+    {
+        "title": "Expert Tier",
+        "release_date": "2021-07-20",
+        "deadline": "",
+        "thread": 38849,
+        "points": 8
+    },
+    {
+        "title": "Olympic Games",
+        "release_date": "2021-07-23",
+        "deadline": "",
+        "thread": 39077,
+        "points": 6
+    },
+    {
+        "title": "August 2021",
+        "release_date": "2021-08-01",
+        "deadline": "2021-08-31",
+        "thread": 39659,
+        "points": 2
+    },
+    {
+        "title": "2016 Classic",
+        "release_date": "2021-08-06",
+        "deadline": "",
+        "thread": 39961,
+        "points": 3
+    },
+    {
+        "title": "Evangelion Collection",
+        "release_date": "2021-08-13",
+        "deadline": "",
+        "thread": 40441,
+        "points": 1
+    },
+    {
+        "title": "Zodiac II: Western Zodiac",
+        "release_date": "2021-08-20",
+        "deadline": "",
+        "thread": 40936,
+        "points": 1
+    },
+    {
+        "title": "September 2021",
+        "release_date": "2021-09-01",
+        "deadline": "2021-09-30",
+        "thread": 41792,
+        "points": 2
+    },
+    {
+        "title": "Badge Battle #6: Mafuyu vs Elaina",
+        "release_date": "2021-09-03",
+        "deadline": "2021-09-16",
+        "thread": 41903,
+        "points": 0
+    },
+    {
+        "title": "Manga City Onsen",
+        "release_date": "2021-09-10",
+        "deadline": "",
+        "thread": 42357,
+        "points": 1
+    },
+    {
+        "title": "October 2021",
+        "release_date": "2021-10-01",
+        "deadline": "2021-10-31",
+        "thread": 43786,
+        "points": 2
+    },
+    {
+        "title": "Fall 2021 Seasonal",
+        "release_date": "2021-10-03",
+        "deadline": "2022-01-16",
+        "thread": 43932,
+        "points": 1
+    },
+    {
+        "title": "Cardcaptor Sakura Collection",
+        "release_date": "2021-10-15",
+        "deadline": "",
+        "thread": 44858,
+        "points": 1
+    },
+    {
+        "title": "Hero's Dawn",
+        "release_date": "2021-10-29",
+        "deadline": "",
+        "thread": 45664,
+        "points": 1
+    },
+    {
+        "title": "November 2021",
+        "release_date": "2021-11-01",
+        "deadline": "2021-11-30",
+        "thread": 45832,
+        "points": 2
+    },
+    {
+        "title": "Formula 1",
+        "release_date": "2021-11-12",
+        "deadline": "",
+        "thread": 46422,
+        "points": 5
+    },
+    {
+        "title": "Puzzle Challenge 5: Gomoku",
+        "release_date": "2021-11-19",
+        "deadline": "",
+        "thread": 46745,
+        "points": 2
+    },
+    {
+        "title": "Manga City Military Base",
+        "release_date": "2021-11-26",
+        "deadline": "",
+        "thread": 47135,
+        "points": 1
+    },
+    {
+        "title": "December 2021",
+        "release_date": "2021-12-01",
+        "deadline": "2021-12-31",
+        "thread": 47411,
+        "points": 2
+    },
+    {
+        "title": "Aria Collection",
+        "release_date": "2021-12-09",
+        "deadline": "",
+        "thread": 47806,
+        "points": 1
+    },
+    {
+        "title": "Staff Picks 2021",
+        "release_date": "2021-12-25",
+        "deadline": "2022-12-24",
+        "thread": 48560,
+        "points": 2
+    },
+    {
+        "title": "January 2022",
+        "release_date": "2022-01-01",
+        "deadline": "2022-01-31",
+        "thread": 48908,
+        "points": 2
+    },
+    {
+        "title": "Winter 2022 Seasonal",
+        "release_date": "2022-01-02",
+        "deadline": "2022-04-17",
+        "thread": 48962,
+        "points": 1
+    },
+    {
+        "title": "2021 Classic",
+        "release_date": "2022-01-07",
+        "deadline": "",
+        "thread": 49205,
+        "points": 3
+    },
+    {
+        "title": "Manga City Hospital",
+        "release_date": "2022-01-21",
+        "deadline": "",
+        "thread": 49909,
+        "points": 1
+    },
+    {
+        "title": "February 2022",
+        "release_date": "2022-02-01",
+        "deadline": "2022-02-28",
+        "thread": 50456,
+        "points": 2
+    },
+    {
+        "title": "JAFC Collection",
+        "release_date": "2022-02-11",
+        "deadline": "",
+        "thread": 50869,
+        "points": 3
+    },
+    {
+        "title": "Pioneers' Classic",
+        "release_date": "2022-02-18",
+        "deadline": "",
+        "thread": 51196,
+        "points": 3
+    },
+    {
+        "title": "Manga Advanced",
+        "release_date": "2022-02-25",
+        "deadline": "",
+        "thread": 51476,
+        "points": 6
+    },
+    {
+        "title": "March 2022",
+        "release_date": "2022-03-01",
+        "deadline": "2022-03-31",
+        "thread": 51651,
+        "points": 2
+    },
+    {
+        "title": "Puzzle Challenge 6: Plus-Minus",
+        "release_date": "2022-03-11",
+        "deadline": "",
+        "thread": 52011,
+        "points": 2
+    },
+    {
+        "title": "Manga City Park",
+        "release_date": "2022-03-25",
+        "deadline": "",
+        "thread": 52601,
+        "points": 1
+    },
+    {
+        "title": "April 2022",
+        "release_date": "2022-04-01",
+        "deadline": "2022-04-30",
+        "thread": 52918,
+        "points": 2
+    },
+    {
+        "title": "Spring 2022 Seasonal",
+        "release_date": "2022-04-03",
+        "deadline": "2022-07-17",
+        "thread": 52999,
+        "points": 1
+    },
+    {
+        "title": "Urusei Yatsura Collection",
+        "release_date": "2022-04-15",
+        "deadline": "",
+        "thread": 53566,
+        "points": 1
+    },
+    {
+        "title": "Badge Battle #7: Mashiro vs Yui",
+        "release_date": "2022-04-22",
+        "deadline": "2022-05-06",
+        "thread": 53858,
+        "points": 0
+    },
+    {
+        "title": "May 2022",
+        "release_date": "2022-05-01",
+        "deadline": "2022-05-31",
+        "thread": 54234,
+        "points": 2
+    },
+    {
+        "title": "June 2022",
+        "release_date": "2022-06-01",
+        "deadline": "2022-06-30",
+        "thread": 55490,
+        "points": 2
+    },
+    {
+        "title": "Manga City Home",
+        "release_date": "2022-06-11",
+        "deadline": "",
+        "thread": 55870,
+        "points": 1
+    },
+    {
+        "title": "July 2022",
+        "release_date": "2022-07-01",
+        "deadline": "2022-07-31",
+        "thread": 56620,
+        "points": 2
+    },
+    {
+        "title": "Summer 2022 Seasonal",
+        "release_date": "2022-07-03",
+        "deadline": "2022-10-16",
+        "thread": 56687,
+        "points": 1
+    },
+    {
+        "title": "Puzzle Challenge 7: Tetris",
+        "release_date": "2022-07-08",
+        "deadline": "",
+        "thread": 56903,
+        "points": 2
+    },
+    {
+        "title": "2015 Classic",
+        "release_date": "2022-07-16",
+        "deadline": "",
+        "thread": 57229,
+        "points": 3
+    },
+    {
+        "title": "Hero's War",
+        "release_date": "2022-07-25",
+        "deadline": "",
+        "thread": 57577,
+        "points": 1
+    },
+    {
+        "title": "August 2022",
+        "release_date": "2022-08-01",
+        "deadline": "2022-08-31",
+        "thread": 57826,
+        "points": 2
+    },
+    {
+        "title": "Pretty Cure Collection",
+        "release_date": "2022-08-12",
+        "deadline": "",
+        "thread": 58215,
+        "points": 6
+    },
+    {
+        "title": "Mitsuru Adachi Collection",
+        "release_date": "2022-08-19",
+        "deadline": "",
+        "thread": 58423,
+        "points": 1
+    },
+    {
+        "title": "September 2022",
+        "release_date": "2022-09-01",
+        "deadline": "2022-09-30",
+        "thread": 57890,
+        "points": 2
+    },
+    {
+        "title": "Inuyasha Collection",
+        "release_date": "2022-09-16",
+        "deadline": "",
+        "thread": 59212,
+        "points": 1
+    },
+    {
+        "title": "October 2022",
+        "release_date": "2022-10-01",
+        "deadline": "2022-10-31",
+        "thread": 59608,
+        "points": 2
+    },
+    {
+        "title": "Fall 2022 Seasonal",
+        "release_date": "2022-10-03",
+        "deadline": "2023-01-15",
+        "thread": 59679,
+        "points": 1
+    },
+    {
+        "title": "2014 Classic",
+        "release_date": "2022-10-07",
+        "deadline": "",
+        "thread": 59780,
+        "points": 3
+    },
+    {
+        "title": "Community Workshop",
+        "release_date": "2022-10-14",
+        "deadline": "",
+        "thread": 59986,
+        "points": 3
+    },
+    {
+        "title": "November 2022",
+        "release_date": "2022-11-01",
+        "deadline": "2022-11-30",
+        "thread": 60451,
+        "points": 2
+    },
+    {
+        "title": "Manga City Construction Site",
+        "release_date": "2022-11-11",
+        "deadline": "",
+        "thread": 60670,
+        "points": 1
+    },
+    {
+        "title": "Puzzle Challenge 8: Crossword",
+        "release_date": "2022-11-25",
+        "deadline": "",
+        "thread": 60975,
+        "points": 2
+    },
+    {
+        "title": "December 2022",
+        "release_date": "2022-12-01",
+        "deadline": "2022-12-31",
+        "thread": 61094,
+        "points": 2
+    },
+    {
+        "title": "Light Novel",
+        "release_date": "2022-12-16",
+        "deadline": "",
+        "thread": 61414,
+        "points": 2
+    },
+    {
+        "title": "Staff Picks 2022",
+        "release_date": "2022-12-25",
+        "deadline": "2023-12-24",
+        "thread": 61647,
+        "points": 2
+    },
+    {
+        "title": "January 2023",
+        "release_date": "2023-01-01",
+        "deadline": "2023-01-31",
+        "thread": 61831,
+        "points": 2
+    },
+    {
+        "title": "Winter 2023 Seasonal",
+        "release_date": "2023-01-02",
+        "deadline": "2023-04-03",
+        "thread": 61848,
+        "points": 1
+    },
+    {
+        "title": "Classic 2022",
+        "release_date": "2023-01-05",
+        "deadline": "",
+        "thread": 61944,
+        "points": 3
+    },
+    {
+        "title": "Naoki Urasawa",
+        "release_date": "2023-01-20",
+        "deadline": "",
+        "thread": 62321,
+        "points": 1
+    },
+    {
+        "title": "February 2023",
+        "release_date": "2023-02-01",
+        "deadline": "",
+        "thread": 62649,
+        "points": 2
+    },
+    {
+        "title": "Badge Battle #08 Katarina vs Abigail",
+        "release_date": "2023-02-10",
+        "deadline": "2023-02-24",
+        "thread": 62881,
+        "points": 0
+    },
+    {
+        "title": "Retro Classic Challenge",
+        "release_date": "2023-02-24",
+        "deadline": "",
+        "thread": 63239,
+        "points": 6
+    },
+    {
+        "title": "March 2023",
+        "release_date": "2023-03-01",
+        "deadline": "2023-03-31",
+        "thread": 63380,
+        "points": 2
+    },
+    {
+        "title": "Hidden Gems",
+        "release_date": "2023-03-10",
+        "deadline": "",
+        "thread": 63608,
+        "points": 2
+    },
+    {
+        "title": "Manga City Mall",
+        "release_date": "2023-03-17",
+        "deadline": "",
+        "thread": 63781,
+        "points": 1
+    },
+    {
+        "title": "April 2023",
+        "release_date": "2023-04-01",
+        "deadline": "2023-04-30",
+        "thread": 64140,
+        "points": 2
+    },
+    {
+        "title": "Spring 2023 Seasonal",
+        "release_date": "2023-04-05",
+        "deadline": "2023-07-16",
+        "thread": 64247,
+        "points": 1
+    },
+    {
+        "title": "May 2023",
+        "release_date": "2023-05-01",
+        "deadline": "2023-05-31",
+        "thread": 64923,
+        "points": 2
+    },
+    {
+        "title": "Puzzle Challenge 9: Chain",
+        "release_date": "2023-05-19",
+        "deadline": "",
+        "thread": 65311,
+        "points": 2
+    },
+    {
+        "title": "One Shot Roulette",
+        "release_date": "2023-05-27",
+        "deadline": "",
+        "thread": 65513,
+        "points": 1
+    },
+    {
+        "title": "June 2023",
+        "release_date": "2023-06-01",
+        "deadline": "2023-06-30",
+        "thread": 65635,
+        "points": 2
+    },
+    {
+        "title": "Manga City Library",
+        "release_date": "2023-06-09",
+        "deadline": "",
+        "thread": 65821,
+        "points": 1
+    },
+    {
+        "title": "2013 Classic",
+        "release_date": "2023-06-16",
+        "deadline": "",
+        "thread": 65978,
+        "points": 3
+    },
+    {
+        "title": "July 2023",
+        "release_date": "2023-07-01",
+        "deadline": "2023-07-31",
+        "thread": 66364,
+        "points": 2
+    },
+    {
+        "title": "Summer 2023 Seasonal",
+        "release_date": "2023-07-03",
+        "deadline": "2023-10-15",
+        "thread": 66416,
+        "points": 1
+    },
+    {
+        "title": "Slayers Collection",
+        "release_date": "2023-07-07",
+        "deadline": "",
+        "thread": 66523,
+        "points": 1
+    },
+    {
+        "title": "Gacha",
+        "release_date": "2023-07-28",
+        "deadline": "",
+        "thread": 67067,
+        "points": 40
+    },
+    {
+        "title": "August Montly 2023",
+        "release_date": "2023-08-01",
+        "deadline": "2023-08-31",
+        "thread": 67170,
+        "points": 2
+    },
+    {
+        "title": "Dungeon: Training Grounds",
+        "release_date": "2023-08-19",
+        "deadline": "",
+        "thread": 67587,
+        "points": 2
+    },
+    {
+        "title": "September 2023",
+        "release_date": "2023-09-01",
+        "deadline": "2023-09-30",
+        "thread": 67858,
+        "points": 2
+    },
+    {
+        "title": "Classic 2012",
+        "release_date": "2023-09-08",
+        "deadline": "",
+        "thread": 68020,
+        "points": 3
+    },
+    {
+        "title": "Board Game",
+        "release_date": "2023-09-29",
+        "deadline": "",
+        "thread": 68462,
+        "points": 3
+    },
+    {
+        "title": "October 2023",
+        "release_date": "2023-10-01",
+        "deadline": "2023-10-31",
+        "thread": 68503,
+        "points": 2
+    },
+    {
+        "title": "Fall 2023 Seasonal",
+        "release_date": "2023-10-02",
+        "deadline": "2024-01-14",
+        "thread": 68531,
+        "points": 1
+    },
+    {
+        "title": "Gen Urobuchi Collection",
+        "release_date": "2023-10-13",
+        "deadline": "",
+        "thread": 68813,
+        "points": 1
+    },
+    {
+        "title": "Manga City Dagashiya",
+        "release_date": "2023-10-20",
+        "deadline": "",
+        "thread": 68974,
+        "points": 1
+    },
+    {
+        "title": "Zodiac III: Tarot",
+        "release_date": "2023-10-31",
+        "deadline": "",
+        "thread": 69234,
+        "points": 3
+    },
+    {
+        "title": "November 2023",
+        "release_date": "2023-11-01",
+        "deadline": "2023-11-30",
+        "thread": 69255,
+        "points": 2
+    },
+    {
+        "title": "1980s Classic",
+        "release_date": "2023-11-10",
+        "deadline": "",
+        "thread": 69471,
+        "points": 6
+    },
+    {
+        "title": "Gambler's 3.0",
+        "release_date": "2023-11-24",
+        "deadline": "",
+        "thread": 69776,
+        "points": 2
+    },
+    {
+        "title": "December 2023",
+        "release_date": "2023-12-01",
+        "deadline": "2023-12-31",
+        "thread": 69917,
+        "points": 2
+    },
+    {
+        "title": "Sanrio Collection",
+        "release_date": "2023-12-08",
+        "deadline": "",
+        "thread": 70097,
+        "points": 1
+    },
+    {
+        "title": "Manga City Concert Hall",
+        "release_date": "2023-12-16",
+        "deadline": "",
+        "thread": 70272,
+        "points": 1
+    },
+    {
+        "title": "Staff Picks 2023 Timed Mode",
+        "release_date": "2023-12-25",
+        "deadline": "2024-12-24",
+        "thread": 70523,
+        "points": 2
+    },
+    {
+        "title": "Staff Picks 2023 Hanamaru Mode",
+        "release_date": "2023-12-25",
+        "deadline": "",
+        "thread": 70523,
+        "points": 2
+    },
+    {
+        "title": "January 2024",
+        "release_date": "2024-01-01",
+        "deadline": "2024-01-31",
+        "thread": 70656,
+        "points": 2
+    },
+    {
+        "title": "Winter 2024 Seasonal",
+        "release_date": "2024-01-02",
+        "deadline": "2024-04-14",
+        "thread": 70674,
+        "points": 1
     }
 ]
