@@ -1601,5 +1601,12 @@
         "deadline": "2024-04-14",
         "thread": 70674,
         "points": 1
+    },
+    {
+        "title": "2023 Classic",
+        "release_date": "2024-01-05",
+        "deadline": "",
+        "thread": 70733,
+        "points": 3
     }
 ]
