@@ -1323,7 +1323,7 @@
         "points": 1
     },
     {
-        "title": "Classic 2022",
+        "title": "2022 Classic",
         "release_date": "2023-01-05",
         "deadline": "",
         "thread": 61944,
@@ -1484,11 +1484,18 @@
         "points": 2
     },
     {
-        "title": "Classic 2012",
+        "title": "2012 Classic",
         "release_date": "2023-09-08",
         "deadline": "",
         "thread": 68020,
         "points": 3
+    },
+    {
+        "title": "Puzzle Challenge 10: Sudoku",
+        "release_date": "2023-09-15",
+        "deadline": "",
+        "thread": 68159,
+        "points": 2
     },
     {
         "title": "Board Game",
@@ -1608,5 +1615,47 @@
         "deadline": "",
         "thread": 70733,
         "points": 3
+    },
+    {
+        "title": "Manga Magazines",
+        "release_date": "2024-01-20",
+        "deadline": "",
+        "thread": 71107,
+        "points": 3
+    },
+    {
+        "title": "February 2024",
+        "release_date": "2024-02-01",
+        "deadline": "2024-02-29",
+        "thread": 71404,
+        "points": 2
+    },
+    {
+        "title": "Youko Kanno Collection",
+        "release_date": "2024-02-09",
+        "deadline": "",
+        "thread": 71579,
+        "points": 1
+    },
+    {
+        "title": "2011 Classic",
+        "release_date": "2024-02-16",
+        "deadline": "",
+        "thread": 71722,
+        "points": 3
+    },
+    {
+        "title": "Puzzle Challenge 11: Chess",
+        "release_date": "2024-02-28",
+        "deadline": "",
+        "thread": 71984,
+        "points": 2
+    },
+    {
+        "title": "March 2024",
+        "release_date": "2024-03-01",
+        "deadline": "2024-03-31",
+        "thread": 72023,
+        "points": 2
     }
 ]
