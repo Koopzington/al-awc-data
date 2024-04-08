@@ -1657,5 +1657,19 @@
         "deadline": "2024-03-31",
         "thread": 72023,
         "points": 2
+    },
+    {
+        "title": "April 2024",
+        "release_date": "2024-04-01",
+        "deadline": "2024-04-30",
+        "thread": 72731,
+        "points": 2
+    },
+    {
+        "title": "Spring 2024 Seasonal",
+        "release_date": "2024-04-02",
+        "deadline": "2024-07-14",
+        "thread": 72798,
+        "points": 1
     }
 ]
