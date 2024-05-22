@@ -1671,5 +1671,40 @@
         "deadline": "2024-07-14",
         "thread": 72798,
         "points": 1
+    },
+    {
+        "title": "Manga City Subway",
+        "release_date": "2024-04-12",
+        "deadline": "",
+        "thread": 73096,
+        "points": 1
+    },
+    {
+        "title": "Gainax Collection",
+        "release_date": "2024-04-26",
+        "deadline": "",
+        "thread": 73456,
+        "points": 2
+    },
+    {
+        "title": "May 2024",
+        "release_date": "2024-05-01",
+        "deadline": "2024-05-31",
+        "thread": 73586,
+        "points": 2
+    },
+    {
+        "title": "1990s Classic",
+        "release_date": "2024-05-10",
+        "deadline": "",
+        "thread": 73776,
+        "points": 6
+    },
+    {
+        "title": "Puzzle 12: Shiritori",
+        "release_date": "2024-05-17",
+        "deadline": "",
+        "thread": 73921,
+        "points": 2
     }
 ]
