@@ -1351,7 +1351,7 @@
         "points": 0
     },
     {
-        "title": "Retro Classic Challenge",
+        "title": "Retro Classic",
         "release_date": "2023-02-24",
         "deadline": "",
         "thread": 63239,
@@ -1463,7 +1463,7 @@
         "points": 40
     },
     {
-        "title": "August Montly 2023",
+        "title": "August 2023",
         "release_date": "2023-08-01",
         "deadline": "2023-08-31",
         "thread": 67170,
@@ -1705,6 +1705,69 @@
         "release_date": "2024-05-17",
         "deadline": "",
         "thread": 73921,
+        "points": 2
+    },
+    {
+        "title": "June 2024",
+        "release_date": "2024-06-01",
+        "deadline": "2024-06-30",
+        "thread": 74284,
+        "points": 2
+    },
+    {
+        "title": "Manga City Restaurant",
+        "release_date": "2024-06-14",
+        "deadline": "",
+        "thread": 74621,
+        "points": 1
+    },
+    {
+        "title": "Hiroyuki Imaishi Collection",
+        "release_date": "2024-06-28",
+        "deadline": "",
+        "thread": 74955,
+        "points": 1
+    },
+    {
+        "title": "July 2024",
+        "release_date": "2024-07-01",
+        "deadline": "2024-07-31",
+        "thread": 75035,
+        "points": 2
+    },
+    {
+        "title": "Summer 2024 Seasonal",
+        "release_date": "2024-07-02",
+        "deadline": "2024-10-13",
+        "thread": 75064,
+        "points": 1
+    },
+    {
+        "title": "100 Year Classic",
+        "release_date": "2024-07-20",
+        "deadline": "",
+        "thread": 75538,
+        "points": 10
+    },
+    {
+        "title": "Akira Toriyama Collection",
+        "release_date": "2024-07-27",
+        "deadline": "",
+        "thread": 75691,
+        "points": 1
+    },
+    {
+        "title": "August 2024",
+        "release_date": "2024-08-01",
+        "deadline": "2024-08-31",
+        "thread": 75814,
+        "points": 2
+    },
+    {
+        "title": "Arcade",
+        "release_date": "2024-08-16",
+        "deadline": "",
+        "thread": 76134,
         "points": 2
     }
 ]
