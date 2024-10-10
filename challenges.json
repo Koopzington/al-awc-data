@@ -1776,5 +1776,40 @@
         "deadline": "",
         "thread": 76459,
         "points": 1
+    },
+    {
+        "title": "September 2024",
+        "release_date": "2024-09-01",
+        "deadline": "2024-09-30",
+        "thread": 76502,
+        "points": 2
+    },
+    {
+        "title": "2010 Classic",
+        "release_date": "2024-09-20",
+        "deadline": "",
+        "thread": 76893,
+        "points": 3
+    }, 
+    {
+        "title": "Fate Collection",
+        "release_date": "2024-09-27",
+        "deadline": "",
+        "thread": 77041,
+        "points": 3
+    },
+    {
+        "title": "October 2024",
+        "release_date": "2024-01-01",
+        "deadline": "2024-10-31",
+        "thread": 77142,
+        "points": 2
+    },
+    {
+        "title": "Fall 2024 Seasonal",
+        "release_date": "2024-10-02",
+        "deadline": "2025-01-15",
+        "thread": 77166,
+        "points": 1
     }
 ]
