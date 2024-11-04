@@ -1818,5 +1818,19 @@
         "deadline": "",
         "thread": 77544,
         "points": 1
+    },
+    {
+        "title": "Trick or Treat",
+        "release_date": "2024-10-31",
+        "deadline": "",
+        "thread": 77815,
+        "points": 2
+    },
+    {
+        "title": "November 2024",
+        "release_date": "2024-11-01",
+        "deadline": "2024-11-30",
+        "thread": "77837",
+        "points": 2
     }
 ]
