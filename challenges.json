@@ -1830,7 +1830,35 @@
         "title": "November 2024",
         "release_date": "2024-11-01",
         "deadline": "2024-11-30",
-        "thread": "77837",
+        "thread": 77837,
+        "points": 2
+    },
+    {
+        "title": "2000 Classic",
+        "release_date": "2024-11-08",
+        "deadline": "",
+        "thread": 77975,
+        "points": 3
+    },
+    {
+        "title": "Dungeon: Slimy Floors",
+        "release_date": "2024-11-15",
+        "deadline": "",
+        "thread": 78115,
+        "points": 2
+    },
+    {
+        "title": "iDOLM@STER Collection",
+        "release_date": "2024-11-29",
+        "deadline": "",
+        "thread": 78423,
+        "points": 2
+    },
+    {
+        "title": "December 2024",
+        "release_date": "2024-12-01",
+        "deadline": "2024-12-31",
+        "thread": 78480,
         "points": 2
     }
 ]
