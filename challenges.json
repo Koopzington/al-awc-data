@@ -1701,7 +1701,7 @@
         "points": 6
     },
     {
-        "title": "Puzzle 12: Shiritori",
+        "title": "Puzzle Challenge 12: Shiritori",
         "release_date": "2024-05-17",
         "deadline": "",
         "thread": 73921,
@@ -1859,6 +1859,20 @@
         "release_date": "2024-12-01",
         "deadline": "2024-12-31",
         "thread": 78480,
+        "points": 2
+    },
+    {
+        "title": "Manga City Nightclub",
+        "release_date": "2024-12-06",
+        "deadline": "",
+        "thread": 78565,
+        "points": 1
+    },
+    {
+        "title": "Puzzle Challenge 13: Minesweeper",
+        "release_date": "2024-12-13",
+        "deadline": "",
+        "thread": 78688,
         "points": 2
     }
 ]
