@@ -1874,5 +1874,33 @@
         "deadline": "",
         "thread": 78688,
         "points": 2
+    },
+    {
+        "title": "Staff Picks 2024 Timed Mode",
+        "release_date": "2024-12-25",
+        "deadline": "2025-12-24",
+        "thread": 78940,
+        "points": 2
+    },
+    {
+        "title": "Staff Picks 2024 Hanamaru Mode",
+        "release_date": "2024-12-25",
+        "deadline": "",
+        "thread": 78940,
+        "points": 2
+    },
+    {
+        "title": "January 2025",
+        "release_date": "2025-01-01",
+        "deadline": "2025-01-31",
+        "thread": 79059,
+        "points": 2
+    },
+    {
+        "title": "Winter 2025 Seasonal",
+        "release_date": "2025-01-05",
+        "deadline": "2025-04-27",
+        "thread": 79155,
+        "points": 1
     }
 ]
