@@ -1902,5 +1902,19 @@
         "deadline": "2025-04-27",
         "thread": 79155,
         "points": 1
+    },
+    {
+        "title": "2024 Classic",
+        "release_date": "2025-01-10",
+        "deadline": "",
+        "thread": 79260,
+        "points": 3
+    },
+    {
+        "title": "Manga Recipe",
+        "release_date": "2025-01-20",
+        "deadline": "",
+        "thread": 79505,
+        "points": 2
     }
 ]
