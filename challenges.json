@@ -350,7 +350,7 @@
         "points": 6
     },
     {
-        "title": "Badge Battle #1: Bocchi vs Senko",
+        "title": "Badge Battle #01: Bocchi vs Senko",
         "release_date": "2019-07-26",
         "deadline": "2019-08-09",
         "thread": 8579,
@@ -441,7 +441,7 @@
         "points": 6
     },
     {
-        "title": "Badge Battle #2: Chise vs Mikoto",
+        "title": "Badge Battle #02: Chise vs Mikoto",
         "release_date": "2019-11-28",
         "deadline": "2019-12-12",
         "thread": 10132,
@@ -560,7 +560,7 @@
         "points": 1
     },
     {
-        "title": "Badge Battle #3: Aoi vs Hana",
+        "title": "Badge Battle #03: Aoi vs Hana",
         "release_date": "2020-05-22",
         "deadline": "2020-06-04",
         "thread": 12812,
@@ -693,7 +693,7 @@
         "points": 1
     },
     {
-        "title": "Badge Battle #4: Chiya vs Sophie",
+        "title": "Badge Battle #04: Chiya vs Sophie",
         "release_date": "2020-10-23",
         "deadline": "2020-11-05",
         "thread": 18437,
@@ -777,7 +777,7 @@
         "points": 2
     },
     {
-        "title": "Badge Battle #5: Dazai vs Ash",
+        "title": "Badge Battle #05: Dazai vs Ash",
         "release_date": "2021-02-14",
         "deadline": "2021-02-28",
         "thread": 24929,
@@ -952,7 +952,7 @@
         "points": 2
     },
     {
-        "title": "Badge Battle #6: Mafuyu vs Elaina",
+        "title": "Badge Battle #06: Mafuyu vs Elaina",
         "release_date": "2021-09-03",
         "deadline": "2021-09-16",
         "thread": 41903,
@@ -1141,7 +1141,7 @@
         "points": 1
     },
     {
-        "title": "Badge Battle #7: Mashiro vs Yui",
+        "title": "Badge Battle #07: Mashiro vs Yui",
         "release_date": "2022-04-22",
         "deadline": "2022-05-06",
         "thread": 53858,
@@ -1344,7 +1344,7 @@
         "points": 2
     },
     {
-        "title": "Badge Battle #08 Katarina vs Abigail",
+        "title": "Badge Battle #08: Katarina vs Abigail",
         "release_date": "2023-02-10",
         "deadline": "2023-02-24",
         "thread": 62881,
@@ -1622,6 +1622,13 @@
         "deadline": "",
         "thread": 71107,
         "points": 3
+    },
+    {
+        "title": "Badge Battle #09: Sakaki vs Ena",
+        "release_date": "2024-01-26",
+        "deadline": "2024-02-09",
+        "thread": 71275,
+        "points": 0
     },
     {
         "title": "February 2024",
@@ -1916,5 +1923,19 @@
         "deadline": "",
         "thread": 79505,
         "points": 2
+    },
+    {
+        "title": "February 2025",
+        "release_date": "2025-02-01",
+        "deadline": "2025-02-28",
+        "thread": 79762,
+        "points": 2
+    },
+    {
+        "title": "Badge Battle #10: Sheryl vs Doremi",
+        "release_date": "2025-02-07",
+        "deadline": "2025-02-21",
+        "thread": 79876,
+        "points": 0
     }
 ]
