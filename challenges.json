@@ -319,7 +319,7 @@
         "release_date": "2019-06-21",
         "deadline": "",
         "thread": 8037,
-        "points": 1
+        "points": 2
     },
     {
         "title": "July 2019",
@@ -788,14 +788,14 @@
         "release_date": "2021-02-19",
         "deadline": "",
         "thread": 25322,
-        "points": 2
+        "points": 4
     },
     {
         "title": "Love Live! Collection",
         "release_date": "2021-02-25",
         "deadline": "",
         "thread": 25914,
-        "points": 1
+        "points": 2
     },
     {
         "title": "March 2021",
@@ -1138,7 +1138,7 @@
         "release_date": "2022-04-15",
         "deadline": "",
         "thread": 53566,
-        "points": 1
+        "points": 3
     },
     {
         "title": "Badge Battle #07: Mashiro vs Yui",
@@ -1215,7 +1215,7 @@
         "release_date": "2022-08-12",
         "deadline": "",
         "thread": 58215,
-        "points": 6
+        "points": 10
     },
     {
         "title": "Mitsuru Adachi Collection",
@@ -1236,7 +1236,7 @@
         "release_date": "2022-09-16",
         "deadline": "",
         "thread": 59212,
-        "points": 1
+        "points": 3
     },
     {
         "title": "October 2022",
@@ -1937,5 +1937,82 @@
         "deadline": "2025-02-21",
         "thread": 79876,
         "points": 0
+    },
+    {
+        "title": "March 2025",
+        "release_date": "2025-03-01",
+        "deadline": "2025-03-31",
+        "thread": 80300,
+        "points": 2
+    },
+    {
+        "title": "Masterpiece II",
+        "release_date": "2025-04-01",
+        "deadline": "",
+        "thread": 81003,
+        "points": 0
+    },
+    {
+        "title": "April 2025",
+        "release_date": "2025-04-02",
+        "deadline": "2025-04-30",
+        "thread": 81035,
+        "points": 2
+    },
+    {
+        "title": "Spring 2025 Seasonal",
+        "release_date": "2025-04-06",
+        "deadline": "2025-07-27",
+        "thread": 81145,
+        "points": 1
+    },
+    {
+        "title": "Manga City Gym",
+        "release_date": "2025-04-18",
+        "deadline": "",
+        "thread": 81431,
+        "points": 1
+    },
+    {
+        "title": "May 2025",
+        "release_date": "2025-05-01",
+        "deadline": "2025-05-31",
+        "thread": 81742,
+        "points": 2
+    },
+    {
+        "title": "World Masterpiece Theater Collection",
+        "release_date": "2025-05-16",
+        "deadline": "",
+        "thread": 82042,
+        "points": 10
+    },
+    {
+        "title": "June 2025",
+        "release_date": "2025-06-01",
+        "deadline": "2025-06-30",
+        "thread": 82370,
+        "points": 2
+    },
+    {
+        "title": "2009 Classic",
+        "release_date": "2025-06-13",
+        "deadline": "",
+        "thread": 82627,
+        "points": 3
+    },
+    {
+        "title": "July 2025",
+        "release_date": "2025-07-01",
+        "deadline": "2025-07-31",
+        "thread": 83011,
+        "points": 2
+    },
+    {
+        "title": "Summer 2025 Seasonal",
+        "release_date": "2025-07-06",
+        "deadline": "2025-10-26",
+        "thread": 83129,
+        "points": 1
     }
 ]
