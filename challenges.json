@@ -18,7 +18,8 @@
         "release_date": "2018-08-23",
         "deadline": "",
         "thread": 5027,
-        "points": 4
+        "points": 4,
+        "depends_on": 4448
     },
     {
         "title": "September 2018",
@@ -347,7 +348,8 @@
         "release_date": "2019-07-20",
         "deadline": "",
         "thread": 8462,
-        "points": 6
+        "points": 6,
+        "depends_on": 5027
     },
     {
         "title": "Badge Battle #01: Bocchi vs Senko",
@@ -487,7 +489,8 @@
         "release_date": "2020-01-20",
         "deadline": "",
         "thread": 10665,
-        "points": 4
+        "points": 4,
+        "depends_on": 6395
     },
     {
         "title": "Raffle #2",
@@ -907,7 +910,8 @@
         "release_date": "2021-07-20",
         "deadline": "",
         "thread": 38849,
-        "points": 8
+        "points": 8,
+        "depends_on": 8462
     },
     {
         "title": "Olympic Games",
@@ -1096,7 +1100,8 @@
         "release_date": "2022-02-25",
         "deadline": "",
         "thread": 51476,
-        "points": 6
+        "points": 6,
+        "depends_on": 5027
     },
     {
         "title": "March 2022",
@@ -1201,7 +1206,8 @@
         "release_date": "2022-07-25",
         "deadline": "",
         "thread": 57577,
-        "points": 1
+        "points": 1,
+        "depends_on": 45664
     },
     {
         "title": "August 2022",
@@ -1852,7 +1858,8 @@
         "release_date": "2024-11-15",
         "deadline": "",
         "thread": 78115,
-        "points": 2
+        "points": 2,
+        "depends_on": 67587
     },
     {
         "title": "iDOLM@STER Collection",
@@ -2034,7 +2041,8 @@
         "release_date": "2025-08-10",
         "deadline": "",
         "thread": 83912,
-        "points": 0
+        "points": 0,
+        "depends_on": 83451
     },
     {
         "title": "Manga City Aquarium",
@@ -2048,7 +2056,8 @@
         "release_date": "20252-08-31",
         "deadline": "",
         "thread": 84386,
-        "points": 0
+        "points": 0,
+        "depends_on": 83912
     },
     {
         "title": "September 2025",
@@ -2083,6 +2092,7 @@
         "release_date": "2025-10-19",
         "deadline": "",
         "thread": 85436,
-        "points": 1
+        "points": 1,
+        "depends_on": 84386
     }
 ]
