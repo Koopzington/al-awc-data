@@ -2014,5 +2014,75 @@
         "deadline": "2025-10-26",
         "thread": 83129,
         "points": 1
+    },
+    {
+        "title": "Murder Mystery: Prologue",
+        "release_date": "2025-07-20",
+        "deadline": "",
+        "thread": 83451,
+        "points": 0
+    },
+    {
+        "title": "August 2025",
+        "release_date": "2025-08-01",
+        "deadline": "2025-08-31",
+        "thread": 83706,
+        "points": 2
+    },
+    {
+        "title": "Murder Mystery: First Chapter",
+        "release_date": "2025-08-10",
+        "deadline": "",
+        "thread": 83912,
+        "points": 0
+    },
+    {
+        "title": "Manga City Aquarium",
+        "release_date": "2025-08-20",
+        "deadline": "",
+        "thread": 84195,
+        "points": 1
+    },
+    {
+        "title": "Murder Mystery: Second Chapter",
+        "release_date": "20252-08-31",
+        "deadline": "",
+        "thread": 84386,
+        "points": 0
+    },
+    {
+        "title": "September 2025",
+        "release_date": "2025-09-01",
+        "deadline": "2025-09-30",
+        "thread": 84423,
+        "points": 2
+    },
+    {
+        "title": "2001 Classic",
+        "release_date": "2025-09-19",
+        "deadline": "",
+        "thread": 84831,
+        "points": 3
+    },
+    {
+        "title": "October 2025",
+        "release_date": "2025-10-01",
+        "deadline": "2025-10-31",
+        "thread": 85084,
+        "points": 2
+    },
+    {
+        "title": "Fall 2025 Seasonal",
+        "release_date": "2025-10-05",
+        "deadline": "2026-01-25",
+        "thread": 85185,
+        "points": 1
+    },
+    {
+        "title": "Murder Mystery: Last Chapter",
+        "release_date": "2025-10-19",
+        "deadline": "",
+        "thread": 85436,
+        "points": 1
     }
 ]
