@@ -2094,5 +2094,12 @@
         "thread": 85436,
         "points": 1,
         "depends_on": 84386
+    },
+    {
+        "title": "November 2025",
+        "release_date": "2025-11-01",
+        "deadline": "2025-11-30",
+        "thread": 85674,
+        "points": 2
     }
 ]
