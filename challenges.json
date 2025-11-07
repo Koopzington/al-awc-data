@@ -2101,5 +2101,12 @@
         "deadline": "2025-11-30",
         "thread": 85674,
         "points": 2
+    },
+    {
+        "title": "2008 Classic",
+        "release_date": "2025-11-07",
+        "deadline": "",
+        "thread": 85800,
+        "points": 3
     }
 ]
