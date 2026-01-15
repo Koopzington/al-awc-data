@@ -1466,7 +1466,7 @@
         "release_date": "2023-07-28",
         "deadline": "",
         "thread": 67067,
-        "points": 40
+        "points": 52
     },
     {
         "title": "August 2023",
@@ -2107,6 +2107,62 @@
         "release_date": "2025-11-07",
         "deadline": "",
         "thread": 85800,
+        "points": 3
+    },
+    {
+        "title": "Manga City Bank",
+        "release_date": "2025-11-21",
+        "deadline": "",
+        "thread": 86052,
+        "points": 1
+    },
+    {
+        "title": "December 2025",
+        "release_date": "2025-12-01",
+        "deadline": "2025-12-31",
+        "thread": 86237,
+        "points": 2
+    },
+    {
+        "title": "Music Charts",
+        "release_date": "2025-12-12",
+        "deadline": "",
+        "thread": 86433,
+        "points": 2
+    },
+    {
+        "title": "Staff Picks 2025 Timed Mode",
+        "release_date": "2025-12-25",
+        "deadline": "2026-12-24",
+        "thread": 86706,
+        "points": 2
+    },
+    {
+        "title": "Staff Picks 2025 Hanamaru Mode",
+        "release_date": "2025-12-25",
+        "deadline": "",
+        "thread": 86706,
+        "points": 2
+    },
+    {
+        "title": "January 2025",
+        "release_date": "2026-01-01",
+        "deadline": "2026-01-31",
+        "thread": 86816,
+        "points": 2
+    },
+    {
+        "title": "Winter 2025 Seasonal",
+        "release_date": "2026-01-4",
+        "deadline": "2026-04-26",
+        "thread": 86865,
+        "points": 1
+    },
+    {
+        "title": "2025 Classic",
+        "release_date": "2026-01-09",
+        "deadline": "",
+        "thread": 86978,
         "points": 3
     }
 ]
