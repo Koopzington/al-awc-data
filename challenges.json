@@ -2164,5 +2164,47 @@
         "deadline": "",
         "thread": 86978,
         "points": 3
+    },
+    {
+        "title": "Library of Alexandria",
+        "release_date": "2026-01-20",
+        "deadline": "",
+        "thread": 87218,
+        "points": 5
+    },
+    {
+        "title": "February 2026",
+        "release_date": "2026-02-01",
+        "deadline": "2026-02-28",
+        "thread": 87467,
+        "points": 2
+    },
+    {
+        "title": "Winter Olympic Games",
+        "release_date": "2026-02-14",
+        "deadline": "",
+        "thread": 87723,
+        "points": 3
+    },
+    {
+        "title": "March 2026",
+        "release_date": "2026-03-01",
+        "deadline": "2026-03-31",
+        "thread": 88014,
+        "points": 2
+    },
+    {
+        "title": "Isekai Quartet Collection",
+        "release_date": "2026-03-13",
+        "deadline": "",
+        "thread": 88268,
+        "points": 3
+    },
+    {
+        "title": "Manga City Sewers",
+        "release_date": "2026-03-20",
+        "deadline": "",
+        "thread": 88422,
+        "points": 1
     }
 ]
