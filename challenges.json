@@ -1466,7 +1466,7 @@
         "release_date": "2023-07-28",
         "deadline": "",
         "thread": 67067,
-        "points": 52
+        "points": 56
     },
     {
         "title": "August 2023",
@@ -2153,7 +2153,7 @@
     },
     {
         "title": "Winter 2025 Seasonal",
-        "release_date": "2026-01-4",
+        "release_date": "2026-01-04",
         "deadline": "2026-04-26",
         "thread": 86865,
         "points": 1
@@ -2206,5 +2206,47 @@
         "deadline": "",
         "thread": 88422,
         "points": 1
+    },
+    {
+        "title": "April 2026",
+        "release_date": "2026-04-01",
+        "deadline": "2026-04-30",
+        "thread": 88791,
+        "points": 2
+    },
+    {
+        "title": "Spring 2026 Seasonal",
+        "release_date": "2026-04-05",
+        "deadline": "2026-07-26",
+        "thread": 88866,
+        "points": 1
+    },
+    {
+        "title": "May 2026",
+        "release_date": "2026-05-01",
+        "deadline": "2026-05-31",
+        "thread": 89523,
+        "points": 2
+    },
+    {
+        "title": "2007 Classic",
+        "release_date": "2026-05-08",
+        "deadline": "",
+        "thread": 89679,
+        "points": 3
+    },
+    {
+        "title": "Manga Connect",
+        "release_date": "2026-05-15",
+        "deadline": "",
+        "thread": 89850,
+        "points": 1
+    },
+    {
+        "title": "Puzzle Challenge 14: Categories",
+        "release_date": "2026-05-22",
+        "deadline": "",
+        "thread": 89998,
+        "points": 2
     }
 ]
