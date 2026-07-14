@@ -1,0 +1,17 @@
+name: Validate JSON files
+
+on:
+  push:
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    name: Validate JSON files
+    runs-on: ubuntu-slim
+    steps:
+      - name: Validate JSON files
+        uses: cardinalby/schema-validator-action@v3
+        with:
+          file: 'challenges.json'
+          schema: 'challenges.schema.json'

@@ -1,0 +1,44 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://koopz.rocks/schemas/al-awc-challenges",
+    "type": "array",
+    "items": {
+        "$ref": "#/$defs/challenge"
+    },
+    "uniqueItems": true,
+    "$defs": {
+        "challenge": {
+            "type": "object",
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "description": "Challenge Title"
+                },
+                "release_date": {
+                    "type": "string",
+                    "format": "date",
+                    "description": "Date when the challenge was released"
+                },
+                "deadline": {
+                    "type": "string",
+                    "format": "date",
+                    "description": "Date when submissions for the challenge will be closed. Empty if no deadline exists."
+                },
+                "thread": {
+                    "type": "integer",
+                    "description": "ID of the forum thread of the challenge"
+                },
+                "points": {
+                    "type": "integer",
+                    "description": "Maximum amount of points a challenger can get for completing the challenge"
+                }
+            },
+            "required": [
+                "title",
+                "release_date",
+                "thread",
+                "points"
+            ]
+        }
+    }
+}
