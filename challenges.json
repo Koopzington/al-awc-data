@@ -1466,7 +1466,7 @@
         "release_date": "2023-07-28",
         "deadline": "",
         "thread": 67067,
-        "points": 56
+        "points": 64
     },
     {
         "title": "August 2023",
@@ -2248,5 +2248,40 @@
         "deadline": "",
         "thread": 89998,
         "points": 2
+    },
+    {
+        "title": "June 2026",
+        "release_date": "2026-06-01",
+        "deadline": "2026-06-30",
+        "thread": 90224,
+        "points": 2
+    },
+    {
+        "title": "Puzzle Challenge 15: 2048",
+        "release_date": "2026-06-26",
+        "deadline": "",
+        "thread": 90780,
+        "points": 2
+    },
+    {
+        "title": "July 2026",
+        "release_date": "2026-07-01",
+        "deadline": "2026-07-31",
+        "thread": 90921,
+        "points": 2
+    },
+    {
+        "title": "Summer 2026 Seasonal",
+        "release_date": "2026-07-05",
+        "deadline": "2026-10-25",
+        "thread": 91038,
+        "points": 1
+    },
+    {
+        "title": "2002 Classic",
+        "release_date": "2026-07-10",
+        "deadline": "",
+        "thread": 91169,
+        "points": 3
     }
 ]
