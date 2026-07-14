@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-slim
     steps:
       - name: Validate JSON files
-        uses: cardinalby/schema-validator-action@v3
+        uses: dsanders11/json-schema-validate-action@v2.0.0
         with:
-          file: 'challenges.json'
-          schema: 'challenges.schema.json'
+          schema: ./challenges.schema.json
+          files: ./challenges.json
