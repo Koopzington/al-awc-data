@@ -1353,7 +1353,7 @@
         "title": "Gacha",
         "release_date": "2023-07-28",
         "thread": 67067,
-        "points": 64
+        "points": 68
     },
     {
         "title": "August 2023",
@@ -2117,7 +2117,66 @@
     {
         "title": "August 2026",
         "release_date": "2026-08-01",
+        "deadline": "2026-08-31",
         "thread": 91719,
         "points": 2
+    },
+    {
+        "title": "Manga City Cinema",
+        "release_date": "2026-08-07",
+        "thread": 91876,
+        "points": 1
+    },
+    {
+        "title": "Kaiju Attack",
+        "release_date": "2026-08-14",
+        "thread": 92039,
+        "points": 3
+    },
+    {
+        "title": "September 2026",
+        "release_date": "2026-09-01",
+        "deadline": "2026-09-30",
+        "thread": 92453,
+        "points": 2
+    },
+    {
+        "title": "Badge Battle #11: Takasugi vs Onsoku no Sonic",
+        "release_date": "2026-09-11",
+        "thread": 92659,
+        "points": 0
+    },
+    {
+        "title": "October 2026",
+        "release_date": "2026-10-01",
+        "deadline": "2026-10-31",
+        "thread": 93068,
+        "points": 2
+    },
+    {
+        "title": "Fall 2026 Seasonal",
+        "release_date": "2026-10-04",
+        "deadline": ,
+        "thread": 93124,
+        "points": 1
+    },
+    {
+        "title": "Haunted House",
+        "release_date": "2026-10-16",
+        "thread": 93399,
+        "points": 2
+    },
+    {
+        "title": "November 2026",
+        "release_date": "2026-11-01",
+        "deadline": "2026-11-30",
+        "thread": 93748,
+        "points": 2
+    },
+    {
+        "title": "Manga City Planetarium",
+        "release_date": "2026-11-07",
+        "thread": 93875,
+        "points": 1
     }
 ]
